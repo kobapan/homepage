@@ -11,11 +11,13 @@ title: 妙なる畑の会 見学会
 
 サツマイモを起こした畝は土が見えてしまうので、畔草などで敷草を補う
 ![](https://c2.staticflickr.com/6/5777/22445705738_038b1bde89.jpg)
-
-###【田んぼの畑】
 ![](https://c2.staticflickr.com/6/5705/22242902083_c26441d3d5.jpg)
 ![](https://c2.staticflickr.com/6/5755/22472087059_0f9a5b26fd.jpg)
 ![](https://c2.staticflickr.com/6/5681/22471913589_7f9b5fd161.jpg)
+
+　
+
+###【田んぼの畑】
 ![](https://c2.staticflickr.com/6/5693/22875231411_b848ee1ab5.jpg)
 ![](https://c1.staticflickr.com/1/590/22676093560_fa4726ed00.jpg)
 ![](https://c1.staticflickr.com/1/777/22850609052_71fe1292be.jpg)
@@ -25,6 +27,7 @@ title: 妙なる畑の会 見学会
 ![](https://c2.staticflickr.com/6/5828/22838168366_9e677923ca.jpg)
 ![](https://c2.staticflickr.com/6/5731/22864180415_fb715d13f3.jpg)
 
+　
 
 ###【果樹園の畑】
 ![](https://c2.staticflickr.com/6/5770/22241438804_6df3c1de4e.jpg)
