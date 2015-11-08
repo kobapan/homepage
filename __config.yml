@@ -1,6 +1,6 @@
 url: http://kobapan.com
 shopurl: https://kurakazuki.sakura.ne.jp/shop/
-destination: _public
+destination: ~/www
 
 name: ガットポンポコ
 headername: 自然農 ガットポンポコ
