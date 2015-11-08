@@ -1,0 +1,62 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+<meta http-equiv="content-language" content="ja">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>{% if page.title != null %}{% if page.title != "home" %}{{ page.title }} | {% endif %}{% endif %}{{ site.headername }}</title>
+
+<!-- syntax highlighting CSS -->
+<!-- <link rel="stylesheet" href="{{site.url}}/assets/css/syntax.css"> -->
+
+<!-- Custom CSS -->
+<link rel="stylesheet" href="{{site.url}}/assets/css/main.css">
+<!--[if lte IE 8]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<link media="screen and (max-width:480px)" href="{{site.url}}/assets/css/smart.css" type="text/css" rel="stylesheet" />
+
+<!-- js -->
+<script src="{{site.url}}/assets/js/jquery.js"></script>
+<script src="{{site.url}}/assets/js/jquery.lazyload.min.js"></script>
+
+<!-- feed -->
+<link href="{{site.url}}/feed.xml" type="application/atom+xml" rel="alternate">
+
+<!-- favicon -->
+<link rel="shortcut icon" href="{{site.url}}/assets/img/favicon.ico">
+<link rel="icon" type="image/gif" href="{{site.url}}/assets/img/animated_favicon1.gif" >
+
+<script language="JavaScript">
+$(document).ready( function () {
+    // target 属性
+    $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
+
+    // lazyload img
+    $('img:not(img.nolazy)').each(function () {
+        $(this).attr('data-original', $(this).attr('src'))
+            .attr('src','http://' + location.hostname + '/assets/img/white.png ')
+            .lazyload({effect: 'fadeIn',effectspeed: 2000});
+    });
+    
+    // 本日のガットポンポコ
+    if ($('#todayimage')[0]) {
+        $.getJSON("http://api.flickr.com/services/feeds/photoset.gne?jsoncallback=?",
+                  {
+                      nsid: "29905208@N05",
+                      set: "72157644167436634",
+                      format: "json"
+                  },
+                  function(data) {
+                      var arr = [];
+                      $.each(data.items, function(i,item){
+                          arr[i] = item.media.m;
+                      });
+                      arr.sort(function() {
+                          return Math.random() - Math.random();
+                      });
+                      $("<img/>").attr({src: arr[0], width: "182px"}).appendTo("#todayimage");
+                  });
+    }
+});
+</script>
+    

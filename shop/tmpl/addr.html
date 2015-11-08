@@ -1,0 +1,282 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+  "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="content-language" content="ja"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    
+    <title>お買い物かご | ガットポンポコ</title>
+
+    <link href="css/mart.css" rel="stylesheet" type="text/css" />
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="http://kobapan.com/assets/css/main.css"/>
+    <!--[if lte IE 8]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link media="(max-device-width:480px)" href="http://kobapan.com/assets/css/smart.css" type="text/css" rel="stylesheet" />
+    
+    <!-- favicon -->
+    <link rel="shortcut icon" href="http://kobapan.com/assets/img/favicon.ico" />
+    <link rel="icon" type="image/gif" href="http://kobapan.com/assets/img/animated_favicon1.gif" />
+    
+
+<script src="!zip_ajax3!" charset="UTF-8"></script>
+<script type="text/javascript">
+function popup(url) {
+	window.open(url, "law", "width=550,height=350,scrollbars=1");
+}
+function delivbtn() {
+	if (document.addrform.deliv[0].checked == true) {
+		document.getElementById('haiso').style.display = "none";
+	}
+	if (document.addrform.deliv[1].checked == true) {
+		document.getElementById('haiso').style.display = "block";
+	}
+}
+</script>
+</head>
+<body>
+
+   <div id="contents">
+      <article>
+    
+<div class="main">
+
+    <h1>お買い物かご</h1>
+
+<table class="cart_tbl">
+<tr>
+  <th>商品No</th>
+  <th>商品名</th>
+  <th width="105">数量</th>
+  <th>単価</th>
+  <th>金額</th>
+  <th width="60">　</th>
+</tr>
+
+<!-- item_begin -->
+<tr>
+	<td>!code!</td>
+	<td>!item!</td>
+	<td class="ta-r">!num!</td>
+	<td class="ta-r">￥!tanka!</td>
+	<td class="ta-r">￥!gouka!</td>
+	<td>　</td>
+</tr>
+<!-- item_end -->
+
+<!-- tax_begin -->
+<tr>
+	<td colspan="4" class="ta-r">小計</td>
+	<td class="ta-r">￥!kei!</td>
+	<td>!remark!</td>
+	<td>　</td>
+</tr>
+<tr>
+	<td colspan="4" class="ta-r">消費税</td>
+	<td class="ta-r">￥!tax!</td>
+	<td>&nbsp;</td>
+</tr>
+<!-- tax_end -->
+<tr>
+	<td colspan="4" class="ta-r">合計</td>
+	<td class="ta-r">￥!all!</td>
+	<td>&nbsp;</td>
+</tr>
+</table>
+
+<div style="text-align:right;"><p style="font-size:14px">↑別途送料がかかります。次の「確認画面」<br>にて送料が計算表示されます。</p></div>
+
+<form action="!order_cgi!" method="post" name="addrform">
+<input type="hidden" name="mode" value="conf" />
+<input type="hidden" name="back" value="!back!" />
+<!-- cart -->
+
+<table class="cart_form">
+<tr>
+	<th colspan="2">▼ご注文者</th>
+</tr><tr>
+	<td class="w-key"><span class="req">お名前</span></td>
+	<td>
+		<!-- err:name -->
+		<input type="text" name="name" size="30" value="!c_name!" />
+		(例 : 山田 太郎)</td>
+</tr><tr>
+	<td class="w-key"><span class="opt">ふりがな</span></td>
+	<td><input type="text" name="kana" size="30" value="!c_kana!" />
+		(例 : やまだ たろう)</td>
+</tr><tr>
+	<td class="w-key"><span class="req">電子メール</span></td>
+	<td>
+		<!-- err:email -->
+		<input type="text" name="email" size="30" value="!c_email!" class="ime-off" />
+		(例 : taro@email.xx.jp)</td>
+</tr><tr>
+	<td class="w-key"><span class="req">郵便番号</span></td>
+	<td>
+		<!-- err:zip -->
+		<input type="text" name="zip" size="15" value="!c_zip!" class="ime-off" onKeyUp="AjaxZip3.zip2addr(this,'','pref','addr');" /> (例 : 100-1234)
+  </td>
+</tr><tr>
+	<td class="w-key"><span class="req">ご住所</span></td>
+	<td>
+		<!-- err:addr -->
+		<select name="pref">
+		<option value="">▼選択</option>
+		<!-- option_pref -->
+		</select> (都道府県)<br />
+		<textarea name="addr" cols="40" rows="3">!c_addr!</textarea>
+	</td>
+</tr><tr>
+	<td class="w-key"><span class="req">電話番号</span></td>
+	<td>
+		<!-- err:tel -->
+		<input type="text" name="tel" size="25" value="!c_tel!" class="ime-off" />
+			(例 : 03-1234-1000)</td>
+</tr><tr>
+	<td class="w-key"><span class="opt">FAX番号</span></td>
+	<td>
+		<input type="text" name="fax" size="25" value="!c_fax!" class="ime-off" />
+			(例 : 03-1234-1001)</td>
+</tr><tr>
+	<td class="w-key"><span class="opt">配送先</span></td>
+	<td>
+		<!-- err:deliv -->
+		<input type="radio" name="deliv" value="1" onclick="delivbtn()" />上記に同じ<br />
+		<input type="radio" name="deliv" value="2" onclick="delivbtn()" />別に送る
+	</td>
+</tr>
+</table>
+
+<table class="cart_form" id="haiso" style="display:!disp!">
+<tr>
+	<th colspan="2">▼配送先（ご注文者の住所と配送先が異なる場合）</th>
+</tr><tr>
+	<td class="w-key"><span class="req">お名前</span></td>
+	<td>
+		<!-- err:name2 -->
+		<input type="text" name="name2" size="30" value="!c_name2!" />
+		(例 : 山田 太郎)</td>
+</tr><tr>
+	<td class="w-key"><span class="opt">ふりがな</span></td>
+	<td><input type="text" name="kana2" size="30" value="!c_kana2!" />
+		(例 : やまだ たろう)</td>
+</tr><tr>
+	<td class="w-key"><span class="req">郵便番号</span></td>
+	<td>
+		<!-- err:zip2 -->
+		<input type="text" name="zip2" size="15" value="!c_zip2!" class="ime-off" onKeyUp="AjaxZip3.zip2addr(this,'','pref2','addr2');" /> (例 : 103-1234)
+	</td>
+</tr><tr>
+	<td class="w-key"><span class="req">ご住所</span></td>
+	<td>
+		<!-- err:addr2 -->
+		<select name="pref2">
+		<option value="">▼選択</option>
+		<!-- option_pref2 -->
+		</select> (都道府県)<br />
+		<textarea name="addr2" cols="40" rows="3">!c_addr2!</textarea>
+	</td>
+</tr><tr>
+	<td class="w-key"><span class="req">電話番号</span></td>
+	<td>
+		<!-- err:tel2 -->
+		<input type="text" name="tel2" size="25" value="!c_tel2!" class="ime-off" />
+			(例 : 03-1234-1000)</td>
+</tr>
+</table>
+
+	<p style="font-size:14px"><span class="req">&nbsp;</span>マークのある項目は入力必須です。</p>
+
+<table class="cart_form">
+<tr>
+	<th colspan="2">▼その他</th>
+</tr><tr>
+	<td class="w-key"><span class="opt">連絡事項</span></td>
+	<td><textarea name="memo" cols="50" rows="6">!renraku!</textarea></td>
+</tr><tr>
+	<td colspan="2">
+		<input type="checkbox" name="cook" value="1" checked="checked" />
+			ご注文者情報をブラウザに保存する</td>
+</tr>
+</table>
+<input type="submit" class="bigbtn" value="確認画面へ進む" />
+</form>
+
+        <br/>
+      <hr/>
+      <div id="pay">
+	    <div>
+          <b>運営者情報</b><br>
+          ガットポンポコ<br>
+          927-1441 石川県珠洲市狼煙町ホ26<br>
+          小林 貴顕 noen@kobapan.com<br>
+          <br>
+          ゆうちょ銀行 記号：13160  番号:8340951 小林 貴顕（コバヤシ タカアキ）<br>
+          他銀行からの振込の場合:<br>
+          ゆうちょ銀行 三一八（さんいちはち）店 普通 0834095 小林 貴顕（コバヤシ タカアキ）<br>
+          <br>
+        </div>
+        <div>
+          <b>お支払いについて</b><br>
+          ご注文代金は、前払いでお願いします。<br>
+          注文確定メールに郵便振替のご案内を致しますので、十日以内にゆうちょ銀行へお支払い下さい。<br>
+          振込手数料は、お客様がご負担して下さい。<br>
+          ご注文者と振込人名義が異なる場合、ご連絡をお願い致します。<br>
+          <br>
+          商品には別途送料がかかります。原則としてゆうパック（411円～）でお送りします。
+        </div>
+      </div>
+</div>
+
+      </article>
+      <aside>
+        <p class="title page"><a href="http://kobapan.com/">ガットポンポコ</a></p>
+<ul class="pages">
+  <li><a href="http://kobapan.com/profile">ガットポンポコとは</a></li>
+  <li class="indent-1"><a href="http://kobapan.com/sizen-nou">自然農という生き方</a></li>
+  <li class="indent-1"><a href="http://kobapan.com/community">豊かな地域社会</a></li>
+  <li class="indent-1"><a href="http://kobapan.com/edible-forest-garden">食べる森の楽園</a></li>
+  <li class="indent-1"><a href="http://kobapan.com/make">作る楽しさ</a></li>
+  <li><a href="http://kobapan.com/suzuben">珠洲の方言集</a></li>
+  <li><a href="http://kobapan.com/hanbai">お買い物コーナー</a></li>
+
+  <li><a href="http://kobapan.com/blog">日記一覧</a></li>
+
+</ul>
+
+<form class="search" action="http://kobapan.com/search/" method="get">
+  <input type="search" name="q" placeholder="検索"/>
+</form>
+
+
+<div id="todayimage" ></div>
+
+
+      </aside>
+      <footer>
+        <div id="footer" class="col six">
+  &copy; Copyright ガットポンポコ 2015 <a class="atom-rss" href="http://kobapan.com/feed.xml">RSS</a><br>
+  <a href="javascript:void(0);" onclick="popup('!order_cgi!?mode=law')">特定商取引に関する法律に基づく表示</a><br>
+  <a href="http://kobapan.com/links">関連情報</a><br>
+  <em>Content managed by <a href="http://jekyllrb.com/">jekyll</a></em>
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5898866-10', 'kobapan.com');
+  ga('send', 'pageview');
+
+</script>
+
+      </footer>
+    </div>
+
+  </body>
+</html>

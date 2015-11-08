@@ -1,0 +1,287 @@
+@charset='utf-8';
+
+div.main {
+	width: 100%;
+	text-align: center;
+}
+div.main h1, div.main h2 {
+    text-align:left;
+}
+/* 進行パネル */
+table.panel {
+	margin: 1.5em auto;
+}
+table.panel th {
+	background: #EE4257;
+	color: #fff;
+	padding: 0.5em;
+	width: 100px;
+}
+td.panel-off {
+	background: #a8a8a8;
+	color: #fff;
+	padding: 0.5em;
+	text-align: center;
+	width: 100px;
+}
+td.panel-arrow {
+	color: #a8a8a8;
+	text-align: center;
+	width: 20px;
+}
+input.button {
+	width: 140px;
+	margin: 0 14px;
+}
+
+/* 買物カゴ */
+table.cart_tbl {
+	margin: 1.3em auto;
+	border-collapse: collapse;
+    width: 98%;
+}
+table.cart_tbl th, table.cart_tbl td  {
+    border-color: #CCCCCC;
+	white-space: nowrap;
+	padding: 6px;
+	font-size: 100%;
+}
+table.cart_tbl th {
+	background: #dcdced;
+}
+table.cart_tbl td {
+	background: #fff;
+}
+
+/* 入力フォーム */
+table.cart_form {
+	width: 98%;
+	margin: 1.3em auto;
+	border-collapse: collapse;
+}
+table.cart_form th, table.cart_form td {
+	text-align: left;
+	border: solid 1px #CCCCCC;
+	white-space: nowrap;
+	padding: 6px;
+}
+table.cart_form th {
+	background: #dcdced;
+}
+table.cart_form td {
+	background: #fff;
+}
+td.w-key {
+	width: 130px;
+	padding: 6px 0 6px 10px !important;
+}
+input.ime-on {
+	ime-mode: active;
+}
+input.ime-off {
+	ime-mode: inactive;
+}
+
+/* 入力必須 */
+span.req {
+	border-left: 2px solid #EE4257;
+	padding-left: 3px;
+}
+
+/* 入力任意 */
+span.opt {
+	border-left: 2px solid #fff;
+	padding-left: 3px;
+}
+
+td.tbl-wide {
+	border: solid 1px #8080c0;
+	background: #fff;
+	white-space: nowrap;
+	padding: 6px;
+	text-align: center;
+}
+
+/* 赤文字 */
+.red {
+	color: #dd0000;
+}
+
+table.btn-tbl {
+    border-color: #FFFFFF;
+	margin: 0px auto;
+}
+table.btn-tbl tbody tr td {
+    border-color: #FFFFFF;
+}
+.eiji {
+	font-family:Verdana,Helvetica,Arial !important;
+	font-size:90%;
+}
+.ta-r {
+	text-align: right !important;
+}
+.ta-l {
+	text-align: left;
+}
+.ta-c {
+	text-align: center;
+}
+input.inp-mem {
+	width: 150px;
+	ime-mode: inactive;
+}
+table.tbl-join td {
+	background: #fff;
+	color: #444;
+}
+
+/* 入力画面でのメッセージ */
+div.cart-msg {
+	border: 1px solid #ff9393;
+	background: #fff;
+	color: #000;
+	width: 96%;
+	margin: 1em auto;
+    padding: 6px 6px 6px 1em;
+    text-align: left;
+	line-height: 140% !important;
+}
+
+div.login-note {
+	text-align: left;
+	margin: 1em auto 0.5em auto;
+	width: 23em;
+}
+table.enter {
+	margin: 80px auto;
+	width: 400px;
+	border: 1px solid #004080;
+	border-collapse: collapse;
+}
+table.enter th {
+	border: 1px solid #004080;
+	padding: 1em;
+	background: #004080;
+	color: #fff;
+	text-align: left;
+}
+table.enter td {
+	border: 1px solid #004080;
+	padding: 1em;
+	background: #fff;
+	font-family: verdana,helvetica,arial;
+}
+input.len {
+	width: 220px;
+	margin-bottom: 1em;
+}
+div.btn input {
+	font-family: verdana,helvetica,arial;
+	width: 100px;
+	height: 32px;
+}
+
+/* 画面TOPボタン */
+div.top-btn input {
+	width: 9.5em;
+	margin-bottom: 1.5em;
+}
+
+/* 特商法 */
+div.law-data {
+	width: 95%;
+	margin:1em auto;
+	border: 1px solid #666;
+	padding: 1em;
+	text-align: left;
+	background: #fff;
+}
+
+/* 検索画面 */
+div.find-ttl {
+	width: 640px;
+	text-align: center;
+	font-weight: bold;
+	border-top: 1px solid #8080c0;
+	border-left: 1px solid #8080c0;
+	border-right: 1px solid #8080c0;
+	margin: 1em auto 0 auto;
+	padding: 8px;
+	background: #dcdced;
+}
+div.find-box {
+	width: 640px;
+	text-align: center;
+	border: 1px solid #8080c0;
+	margin: 0 auto 1em auto;
+	padding: 8px;
+	background: #fff;
+}
+div.cart-box {
+	width: 640px;
+	line-height: 140%;
+	text-align: left;
+	border: 1px solid #8080c0;
+	margin: 1em auto;
+	padding: 8px;
+	background: #fff;
+}
+
+/* ページ繰越ボタン */
+span.pg-on,span.pg-off {
+	display:-moz-inline-box;
+	-moz-box-align: center;
+	display: inline-block;
+	vertical-align: middle;
+	text-align: center;
+	font-size: 12px;
+	width: 23px;
+	height: 23px;
+	margin: 2px;
+	padding: 2px;
+	border: 1px solid #6b868b;
+	font-family: Verdana,Helvetica,Arial;
+}
+span.pg-on,span.pg-on a {
+	color: #f0f0f0;
+	background: #6b868b;
+}
+span.pg-off,span.pg-off a {
+	color: #6b868b !important;
+	background: #fff;
+}
+div.pgbtn {
+	margin: 0.6em 0;
+}
+div.err-addr {
+	color: #dd0000 !important;
+}
+
+/* 進行ボタン */
+input.bigbtn {
+	height: 32px;
+	margin: 0 14px;
+}
+
+
+/* お支払いについて*/
+div#pay {
+    margin-top:2em;
+    font-size:12px;
+    text-align:left;
+}
+div#pay div {
+    float:left;
+    padding:1em;
+}
+div#pay div b {
+    font-size:13px;
+}
+div#pay div:first-child {
+    width:50%;
+}
+div#pay div:last-child {
+    width:40%;
+}
+
