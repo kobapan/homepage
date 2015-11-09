@@ -32,6 +32,8 @@ title: 妙なる畑の会 見学会
 
 稲束の結束の仕方と稲架への架け方を実際に見せていただけた。
 ![](https://c2.staticflickr.com/6/5754/22838141056_6a0f26d811.jpg)
+
+栽培の手引きを見てもよく分からなかった排水口の仕組み
 ![](https://c2.staticflickr.com/6/5640/22445778467_3d22b2ce45.jpg)
 ![](https://c2.staticflickr.com/6/5828/22838168366_9e677923ca.jpg)
 ![](https://c2.staticflickr.com/6/5731/22864180415_fb715d13f3.jpg)
