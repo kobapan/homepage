@@ -29,6 +29,8 @@ title: 妙なる畑の会 見学会
 ![](https://c1.staticflickr.com/1/590/22676093560_fa4726ed00.jpg)
 ![](https://c1.staticflickr.com/1/777/22850609052_71fe1292be.jpg)
 ![](https://c2.staticflickr.com/6/5762/22838127816_feda8808e7.jpg)
+
+稲束の結束の仕方と稲架への架け方を実際に見せていただけた。
 ![](https://c2.staticflickr.com/6/5754/22838141056_6a0f26d811.jpg)
 ![](https://c2.staticflickr.com/6/5640/22445778467_3d22b2ce45.jpg)
 ![](https://c2.staticflickr.com/6/5828/22838168366_9e677923ca.jpg)
