@@ -27,6 +27,8 @@ title: 妙なる畑の会 見学会
 ###【田んぼの畑】
 ![](https://c2.staticflickr.com/6/5693/22875231411_b848ee1ab5.jpg)
 ![](https://c1.staticflickr.com/1/590/22676093560_fa4726ed00.jpg)
+
+稲が勝ってる。
 ![](https://c1.staticflickr.com/1/777/22850609052_71fe1292be.jpg)
 ![](https://c2.staticflickr.com/6/5762/22838127816_feda8808e7.jpg)
 
