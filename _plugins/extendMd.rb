@@ -12,6 +12,11 @@ module Jekyll
         content.gsub! /<s>(.*)<\/s>/ do
           "<small>#{$1}</small>"
         end
+
+        # new icon
+        content.gsub! /<new>|<new\/>/ do
+          '<span style="color:red;font-size:small;margin-left:0.5em;">new!</span>'
+        end
         
         old_convert(content)
       end

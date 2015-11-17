@@ -1,8 +1,9 @@
 ---
 layout: default
-title: 珠洲の方言 ま行
+title: 珠洲ことば ま行
+tag: 珠洲ことば
 ---
-珠洲の方言 ま行
+# 珠洲ことば ま行
 
 
 <a href="a.html">あ行</a> | <a href="ka.html">か行</a> | <a href="sa.html">さ行</a> | <a href="ta.html">た行</a> | <a href="na.html">な行</a> | <a href="ha.html">は行</a> | ま行 | <a href="ya.html">や行</a> | <a href="ra.html">ら行</a> | <a href="wa.html">わ行</a>
