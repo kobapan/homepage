@@ -359,11 +359,11 @@ div.archive-single-post-link span.pageview {
     top:0px;
     display: inline-block;
     position: relative;
-    width:80px;
+    /* width:80px; */
 }
 div.archive-single-post-link span.pageview img {
     vertical-align:-1px;
     margin-right:1px;
-    max-width: 30%;
+    /* max-width: 30%; */
     height: 9px;
 }
