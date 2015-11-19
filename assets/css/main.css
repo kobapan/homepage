@@ -367,11 +367,10 @@ div.archive-single-post-link span.pageview img {
     /* max-width: 30%; */
     width:35px;
     height: 9px;
-    display: block;
-    float:left;
+    display: inline-block;
 
 }
 div.archive-single-post-link span.pageview span.pageview-text {
     font-size:9px;
-    display: block;
+    display: inline-block;
 }
