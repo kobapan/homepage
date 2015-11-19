@@ -98,13 +98,13 @@ div#pageview img {
     height: auto;
 }
 div.archive-single-post-link span.pageview {
-    width:50px;
+    /* width:50px; */
     padding-left:20px;
 }
 div.archive-single-post-link span.pageview img {
     vertical-align:middle;
     margin-right:1px;
     margin-left:0;
-    max-width: 30%;
+    /*max-width: 30%;*/
     height: 9px;
 }
