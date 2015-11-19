@@ -360,11 +360,10 @@ div.archive-single-post-link span.pageview {
     width:80px;
 }
 div.archive-single-post-link span.pageview img {
-    vertical-align:-1px;
+    vertical-align:-2px;
     margin-right:1px;
-    /* max-width: 30%; */
-    width:35px;
-    height: 9px;
+    width: 42px;
+    height: auto;
     display: inline-block;
 
 }
