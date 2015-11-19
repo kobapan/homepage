@@ -99,6 +99,7 @@ div#pageview img {
     height: auto;
 }
 div.archive-single-post-link span.pageview {
+    width:30px;
 }
 div.archive-single-post-link span.pageview img {
     width: 20px;
