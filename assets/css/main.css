@@ -368,6 +368,7 @@ div.archive-single-post-link span.pageview img {
     width:35px;
     height: 9px;
     display: block;
+    float:left;
 
 }
 div.archive-single-post-link span.pageview span.pageview-text {
