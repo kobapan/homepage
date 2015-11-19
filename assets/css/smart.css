@@ -99,11 +99,11 @@ div#pageview img {
     height: auto;
 }
 div.archive-single-post-link span.pageview {
-    /* width:50px; */
+    width:50px;
 }
 div.archive-single-post-link span.pageview img {
     vertical-align:middle;
-    margin-left:0;
+    margin-left:5;
 }
 div.archive-single-post-link span.pageview span.pageview-text {
     display: block;
