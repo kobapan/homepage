@@ -364,6 +364,7 @@ div.archive-single-post-link span.pageview {
 div.archive-single-post-link span.pageview img {
     vertical-align:-1px;
     margin-right:1px;
+    float:left;
     /* max-width: 30%; */
     height: 9px;
 }
