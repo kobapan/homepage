@@ -101,6 +101,8 @@ div#pageview img {
 div.archive-single-post-link span.pageview {
 }
 div.archive-single-post-link span.pageview img {
+    width: 20px;
+    height: 9px;
 }
 div.archive-single-post-link span.pageview span.pageview-text {
 }
