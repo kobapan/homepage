@@ -100,7 +100,6 @@ div#pageview img {
 }
 div.archive-single-post-link span.pageview {
     width:50px;
-    position: absolute;
     margin : 1em 0 0.8em 0 ;
 }
 div.archive-single-post-link span.pageview img {
@@ -109,4 +108,5 @@ div.archive-single-post-link span.pageview img {
     /* margin-left:0; */
     /* /\*max-width: 30%;*\/ */
     /* height: 9px; */
+    display: block;
 }
