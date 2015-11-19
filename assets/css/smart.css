@@ -99,9 +99,9 @@ div#pageview img {
     height: auto;
 }
 div.archive-single-post-link span.pageview {
-    width:50px;
 }
 div.archive-single-post-link span.pageview img {
+    width:50px;
     vertical-align:middle;
     margin-left:5px;
 }
