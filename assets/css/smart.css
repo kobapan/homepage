@@ -108,5 +108,7 @@ div.archive-single-post-link span.pageview img {
     /* margin-left:0; */
     /* /\*max-width: 30%;*\/ */
     /* height: 9px; */
+}
+div.archive-single-post-link span.pageview span.pageview-text {
     display: block;
 }
