@@ -98,6 +98,7 @@ div#pageview img {
     height: auto;
 }
 div.archive-single-post-link span.pageview {
+    width:100px;
 }
 div.archive-single-post-link span.pageview img {
     /* vertical-align:middle; */
