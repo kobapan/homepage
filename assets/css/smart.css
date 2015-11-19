@@ -103,7 +103,7 @@ div.archive-single-post-link span.pageview {
 }
 div.archive-single-post-link span.pageview img {
     vertical-align:middle;
-    margin-left:5;
+    margin-left:5px;
 }
 div.archive-single-post-link span.pageview span.pageview-text {
     display: block;
