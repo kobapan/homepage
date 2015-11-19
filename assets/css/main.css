@@ -358,6 +358,7 @@ div.archive-single-post-link span.pageview {
     font-size:0px;
     top:0px;
     width:80px;
+    vertical-align:bottom;
 }
 div.archive-single-post-link span.pageview img {
     vertical-align:-2px;
