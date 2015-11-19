@@ -101,8 +101,7 @@ div#pageview img {
 div.archive-single-post-link span.pageview {
 }
 div.archive-single-post-link span.pageview img {
-    vertical-align:middle;
-    margin-left:5px;
+    width:80%;
 }
 div.archive-single-post-link span.pageview span.pageview-text {
 }
