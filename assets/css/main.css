@@ -365,7 +365,10 @@ div.archive-single-post-link span.pageview img {
     vertical-align:-1px;
     margin-right:1px;
     /* max-width: 30%; */
+    width:35px;
     height: 9px;
+    display: block;
+
 }
 div.archive-single-post-link span.pageview span.pageview-text {
     font-size:9px;

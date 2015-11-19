@@ -101,11 +101,8 @@ div#pageview img {
 div.archive-single-post-link span.pageview {
 }
 div.archive-single-post-link span.pageview img {
-    width:35px;
     vertical-align:middle;
     margin-left:5px;
-    display: block;
 }
 div.archive-single-post-link span.pageview span.pageview-text {
-    display: block;
 }
