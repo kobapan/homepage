@@ -358,7 +358,7 @@ div.archive-single-post-link span.pageview {
     font-size:9px;
     top:0px;
     display: inline-block;
-    position: relative;
+    /* position: relative; */
     width:80px;
 }
 div.archive-single-post-link span.pageview img {
