@@ -1,5 +1,5 @@
 ---
-title: 検索結果
+title: 検索
 layout: search
 language: ja
 fileID: search
