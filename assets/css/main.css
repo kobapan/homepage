@@ -94,8 +94,8 @@ header > p.page > a {
     background-image: url("https://c2.staticflickr.com/6/5596/14708877919_5cdfc2c1c4.jpg");
     background-position: 235px 0;
     background-repeat: no-repeat;
-    -moz-background-size:58px;
-    background-size: 58px auto;
+    -moz-background-size:50px;
+    background-size: 50px auto;
 }
 header > p > a {
     border-bottom: medium none;
