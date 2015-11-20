@@ -1,4 +1,12 @@
 /**
+ * search.js
+ *
+ * orig auther https://github.com/GenjiApp
+ * mod auther https://github.com/kobapan
+ */
+
+
+/**
  * URLのパラメタから検索文字列を取り出し、オブジェクトに格納して返す。
  * オブジェクトは'tags'、'keywords'キィを持つ。値は共に配列。
  * パラメタ名'q'を検索パラメタとする。
@@ -43,7 +51,7 @@ $(function() {
     queryString += '[' + tagName + '] ';
   });
   queryString += query.keywords.join(' ');
-  $('#globalNavigation form input[type="search"]').val(queryString);
+  $('form.search input[type="search"]').val(queryString);
 
   // キーワード、タグが無い場合は何も表示しない
   if(!query.keywords.length && !query.tags.length) return false;
@@ -52,20 +60,14 @@ $(function() {
   $.getJSON('/search.json', function(posts) {
     posts.forEach(function(postInfo) {
       if(!postInfo.tags) postInfo.tags = [];
-      var postTagNames = [];
-      postInfo.tags.forEach(function(tag) {
-        postTagNames.push(tag['tagName']);
+      var contains = false;
+      $.each(query.tags, function(index, tagName) {
+        contains = (postInfo.tags.indexOf(tagName) != -1);
+          if(!contains) return false;
       });
 
-      // タグが複数指定されていた場合は、
-      // そのすべてを含んだ記事のみを合致とする。
-      var isContainingAllQueriedTags = false;
-      $.each(query.tags, function(index, tagName) {
-        isContainingAllQueriedTags = (postTagNames.indexOf(tagName) != -1);
-        if(!isContainingAllQueriedTags) return false;
-      });
-      if(isContainingAllQueriedTags && !query.keywords.length) matchedPosts.push(postInfo);
-      else if(isContainingAllQueriedTags || !query.tags.length) {
+      if(contains && !query.keywords.length) matchedPosts.push(postInfo);
+      else if(contains || !query.tags.length) {
         var regexpString = '';
         if(query.keywords.length == 1) regexpString = query.keywords[0];
         else {
@@ -93,8 +95,8 @@ $(function() {
         if(postInfo.tags.length) {
           var dd = '<dd>tags: ';
           var tagList = '';
-          postInfo.tags.forEach(function(tag, tagIndex, tags) {
-            tagList += '<a href="/search.html?q=%5B' + tag['tagName'] + '%5D">' + tag['tagName'] + '<span>[' + tag['count'] + ']</span></a>';
+          postInfo.tags.forEach(function(tagName, tagIndex, tags) {
+            tagList += '<a href="/search.html?q=%5B' + tagName + '%5D">' + tagName + '</a>';
             if(tagIndex < tags.length - 1) tagList += ', ';
           });
           dd += tagList;
