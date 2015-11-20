@@ -100,6 +100,7 @@ div#pageview img {
 }
 div.archive-single-post-link span.pageview {
     max-width:30px;
+    margin-left:10px;
 }
 div.archive-single-post-link span.pageview img {
     max-width: 20px;
