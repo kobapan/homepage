@@ -37,7 +37,7 @@ function getQuery()
     words.forEach(function(word) {
       var tag = word.match(/^\[(.*)\]$/);
       if(tag) query.tags.push(tag[1]);
-      else query.keywords.push(word);
+      else if(word != "")  query.keywords.push(word);
     });
   });
 
