@@ -48,6 +48,10 @@ h2 {
     margin: 1.5em 0 0;
     border-bottom: 1px dotted #999999;
 }
+h3 {
+    margin: 1.5em 0 0;
+    border-left: 1px solid #999999;
+}
 div.post h2 {
     padding-left: 14px;
 }
