@@ -35,8 +35,8 @@ $(function() {
           if(!contains) return false;
       });
 
-      if(contains && query.keywords.length == 0) matchedPosts.push(postInfo);
-      else if(contains || query.tags.length == 0) {
+      if(contains && (query.keywords.length == 0)) matchedPosts.push(postInfo);
+      else if(contains || (query.tags.length == 0)) {
         var regexpString = '';
         if(query.keywords.length == 1) regexpString = query.keywords[0];
         else {
