@@ -100,9 +100,10 @@ div#pageview img {
 }
 div.archive-single-post-link span.pageview {
     max-width:30px;
-    margin-left:15px;
+    margin-left:20px;
 }
 div.archive-single-post-link span.pageview img {
+    vertical-align:-1px;
     max-width: 20px;
     height: 8px;
 }
