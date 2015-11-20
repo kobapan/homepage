@@ -25,6 +25,9 @@ $(function() {
   queryString += query.keywords.join(' ');
   $('form.search input[type="search"]').val(queryString);
 
+  // do nothing if there is no keywords nor tags
+  if(!query.keywords.length && !query.tags.length) return false;
+
   var matchedPosts = [];
   $.getJSON('/search.json', function(posts) {
     posts.forEach(function(postInfo) {
@@ -35,8 +38,8 @@ $(function() {
           if(!contains) return false;
       });
 
-      if(contains && (query.keywords.length == 0)) matchedPosts.push(postInfo);
-      else if(contains || (query.tags.length == 0)) {
+      if(contains && !query.keywords.length) matchedPosts.push(postInfo);
+      else if(contains || !query.tags.length) {
         var regexpString = '';
         if(query.keywords.length == 1) regexpString = query.keywords[0];
         else {
