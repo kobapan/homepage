@@ -128,7 +128,7 @@ div#contents {
 div#contents aside {
     /* float: left; */
     position: fixed;
-    width: 200px;
+    width: 220px;
     font-size:94%;
 }
 div#contents article {
@@ -172,21 +172,21 @@ article>ul.archives {
     padding: 0;
     margin: 0;
 }
-aside>div.related-posts-area {
-    background: url("/assets/img/f-top.png") no-repeat scroll 0 0 / 200px auto transparent;
+aside > div.related-posts-area {
+    background: url("/assets/img/f-top.png") no-repeat scroll 0 0 / 220px auto transparent;
     padding-top:10px;
     padding-right:20px;
 }
-aside>div.related-posts-area>ul.related-posts {
+aside > div.related-posts-area > ul.related-posts {
     padding: 0;
     margin: 0;
     padding-bottom: 16px;
     padding-left: 10px;
     list-style: square inside;
-    background: url("/assets/img/f-bottom.png") no-repeat scroll 0.5px bottom / 200px auto transparent;
+    background: url("/assets/img/f-bottom.png") no-repeat scroll 0.5px bottom / 220px auto transparent;
 }
-aside>div.related-posts-area>ul.related-posts>li {
-    background: url("/assets/img/f-side.png") no-repeat scroll 0 100% / 200px 40px transparent;
+aside > div.related-posts-area > ul.related-posts > li {
+    background: url("/assets/img/f-side.png") no-repeat scroll 0 100% / 220px 40px transparent;
     line-height: 1.3em;
     margin-left: -10px;
     padding-left: 10px;
