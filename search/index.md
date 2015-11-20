@@ -1,5 +1,5 @@
 ---
-title: サイト内を検索
+title: 検索
 layout: search
 language: ja
 fileID: search
