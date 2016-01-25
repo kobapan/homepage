@@ -13,8 +13,8 @@
 </ul>
 {% if page.tag  %}
 {% unless paginator %}
-<div class="related-posts-area">
 <div><a href="{{site.url}}/blog">畑だより</a></div>
+<div class="related-posts-area">
 <span>「<em><a href="{{site.url}}/tags/{{ page.tag }}">{{ page.tag }}</a></em>」最新のお便り</span>
 <ul class="related-posts">
 {% for post in site.tags[page.tag] limit:7 %}
