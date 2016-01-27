@@ -2,7 +2,7 @@
 {% unless paginator %}
 <div><a href="{{site.url}}/blog">畑だより</a></div>
 <div class="related-posts-area">
-<span>「<em><a href="{{site.url}}/tags/{{ page.tag }}">{{ page.tag }}</a></em>」最新のおたより</span>
+<span>「<em><a href="{{site.url}}/tags/{{ page.tag }}">{{ page.tag }}</a></em>」のおたより</span>
 <ul class="related-posts">
 {% for post in site.tags[page.tag] limit:7 %}
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
