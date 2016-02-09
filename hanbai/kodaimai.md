@@ -23,13 +23,13 @@ tag: 自然農
 
 <table class="order-box"><tbody><tr>
 <td><img src="https://c2.staticflickr.com/8/7745/17575003949_b2268a6cca_s.jpg"/></td>
-<td>古代米ブレンド 100g<br>
+<td>４種類の古代米（黒、赤、香、カンタン） 100g<br>
 <b>￥220</b> (税込)
 </td>
 <td>
 <form action="{{ site.shopurl }}" method="post" id="014">
 <input type="hidden" name="code" value="014" />
-<input type="hidden" name="back" value="{{ site.url }}/hanbai/kodaimai-blend.html#014" />
+<input type="hidden" name="back" value="{{ site.url }}/hanbai/kodaimai.html#014" />
 数量<input type="text" name="num" value="" size="3" /><br>
 <input type="submit" value="かごに入れる" />
 </form>
@@ -37,13 +37,13 @@ tag: 自然農
 
 <table class="order-box"><tbody><tr>
 <td><img src="https://c2.staticflickr.com/8/7745/17575003949_b2268a6cca_s.jpg"/></td>
-<td>古代米ブレンド 500g<br>
+<td>４種類の古代米（黒、赤、香、カンタン） 500g<br>
 <b>￥1,000</b> (税込)
 </td>
 <td>
 <form action="{{ site.shopurl }}" method="post" id="015">
 <input type="hidden" name="code" value="015" />
-<input type="hidden" name="back" value="{{ site.url }}/hanbai/kodaimai-blend.html#015" />
+<input type="hidden" name="back" value="{{ site.url }}/hanbai/kodaimai.html#015" />
 数量<input type="text" name="num" value="" size="3" /><br>
 <input type="submit" value="かごに入れる" />
 </form>
@@ -51,13 +51,13 @@ tag: 自然農
 
 <table class="order-box"><tbody><tr>
 <td><img src="https://c2.staticflickr.com/8/7745/17575003949_b2268a6cca_s.jpg"/></td>
-<td>古代米ブレンド 1kg<br>
+<td>４種類の古代米（黒、赤、香、カンタン） 1kg<br>
 <b>￥1,800</b> (税込)
 </td>
 <td>
 <form action="{{ site.shopurl }}" method="post" id="016">
 <input type="hidden" name="code" value="016" />
-<input type="hidden" name="back" value="{{ site.url }}/hanbai/kodaimai-blend.html#016" />
+<input type="hidden" name="back" value="{{ site.url }}/hanbai/kodaimai.html#016" />
 数量<input type="text" name="num" value="" size="3" /><br>
 <input type="submit" value="かごに入れる" />
 </form>
