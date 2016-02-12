@@ -27,12 +27,13 @@ title: 鞍掛大豆 | お買い物コーナー
 <b>￥2,000</b> (税込)
 </td>
 <td>
-<form action="{{ site.shopurl }}" method="post" id="003">
-<input type="hidden" name="code" value="003" />
-<input type="hidden" name="back" value="{{ site.url }}/hanbai/kurakake.html#003" />
-数量<input type="text" name="num" value="" size="3" /><br>
-<input type="submit" value="かごに入れる" />
-</form>
+  <!-- <form action="{{ site.shopurl }}" method="post" id="003">
+  <input type="hidden" name="code" value="003" />
+  <input type="hidden" name="back" value="{{ site.url }}/hanbai/kurakake.html#003" />
+  数量<input type="text" name="num" value="" size="3" /><br>
+  <input type="submit" value="かごに入れる" />
+  </form> -->
+  <span style="color:red">売り切れ</span>
 </td></tr></tbody></table>
 
 <table class="order-box"><tbody><tr>
