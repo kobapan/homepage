@@ -76,7 +76,7 @@ title: 鞍掛大豆 | お買い物コーナー
 
 　
 <div style="text-align:right;">
-<a href="./">お買い物コーナーの一覧表示へ戻る</a>
+  <a href="./">「野菜販売」の一覧へ戻る</a>
 
 <form action="{{ site.shopurl }}" method="post" id="kakunin"><input type="hidden" name="back" value="{{ site.url }}/hanbai/#kakunin" /><input type="submit" value="お買い物かごの中身を確認" /></form>
 </div>
