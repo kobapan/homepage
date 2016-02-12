@@ -42,7 +42,9 @@ sub addr_form {
 
 	# 買物データ受理
 	my @cart = $cgi->param('cart');
-	if (@cart == 0) { error("買物カゴの中身が空です"); }
+	if (@cart == 0) {
+        error("買物カゴの中身が空です");
+    }
 
 	# 商品データ認識
 	my %cart = get_data();
@@ -122,6 +124,9 @@ sub addr_form {
 	my $tmpl = join('', <IN>);
 	close(IN);
 	
+    # プログラムファイル名
+	$tmpl =~ s/!order_cgi!/$cf{order_cgi}/g;
+
 	# 税対応
 	if (!$cf{tax_per}) { $tmpl =~ s/<!-- tax_begin -->.+<!-- tax_end -->//s; }
 	
@@ -231,7 +236,7 @@ sub addr_form {
 		s/!renraku!/$c{memo}/g;
 		s/<!-- cart -->/$hidden/g;
 		s/!([a-z]+_cgi)!/$cf{$1}/g;
-	}
+}
 
 	# 画面展開
 	print "Content-type: text/html; charset=utf-8\n\n";
@@ -735,6 +740,8 @@ EOM
 		$tmpl =~ s/!email!/$in{email}/g;
 		$tmpl =~ s/!sendid!/$in{number}/g;
 	}
+
+    # プログラムファイル名
 	$tmpl =~ s/!order_cgi!/$cf{order_cgi}/g;
 
 	# 表示

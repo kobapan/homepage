@@ -25,8 +25,8 @@ tag: 自然農
 <a href="./kurakake.html"><img src="https://c1.staticflickr.com/9/8730/16611810190_fdc7ed297c_m.jpg"></a>
 </td><td>
 海苔のような独特な香り<br>
-口に入れた瞬間コーンの甘い味<br>
-浸水なしでも調理できる平たい豆、鞍掛大豆<br>
+口に入れた瞬間とうもろこしのような甘い味<br>
+短時間の浸水で調理できる平たい豆、鞍掛大豆<br>
 <a href="./kurakake.html">詳細ページへ &gt;&gt;</a>
 </td></table>
 
