@@ -27,11 +27,11 @@ tag: 自然農
     <b>￥220</b> (税込)
   </td>
   <td>
-    <form action="{{ site.shopurl }}" method="post" id="014">
-      <input type="hidden" name="code" value="014" />
-      <input type="hidden" name="back" value="{{ site.url }}/hanbai/kodaimai.html#014" />
-      数量<input type="text" name="num" value="" size="3" /><br>
-      <input type="submit" value="かごに入れる" />
+    <form action="{{ site.shopurl }}" method="post" id="017">
+    <input type="hidden" name="code" value="017" />
+    <input type="hidden" name="back" value="{{ site.url }}/hanbai/kodaimai.html#017" />
+    数量<input type="text" name="num" value="" size="3" /><br>
+    <input type="submit" value="かごに入れる" />
     </form>
   </td></tr></tbody></table>
 
@@ -41,9 +41,9 @@ tag: 自然農
     <b>￥1,000</b> (税込)
   </td>
   <td>
-    <!-- <form action="{{ site.shopurl }}" method="post" id="015">
-    <input type="hidden" name="code" value="015" />
-    <input type="hidden" name="back" value="{{ site.url }}/hanbai/kodaimai.html#015" />
+    <!-- <form action="{{ site.shopurl }}" method="post" id="018">
+    <input type="hidden" name="code" value="018" />
+    <input type="hidden" name="back" value="{{ site.url }}/hanbai/kodaimai.html#018" />
     数量<input type="text" name="num" value="" size="3" /><br>
     <input type="submit" value="かごに入れる" />
     </form> -->
@@ -56,9 +56,9 @@ tag: 自然農
     <b>￥1,800</b> (税込)
   </td>
   <td>
-    <!-- <form action="{{ site.shopurl }}" method="post" id="016">
-    <input type="hidden" name="code" value="016" />
-    <input type="hidden" name="back" value="{{ site.url }}/hanbai/kodaimai.html#016" />
+    <!-- <form action="{{ site.shopurl }}" method="post" id="019">
+    <input type="hidden" name="code" value="019" />
+    <input type="hidden" name="back" value="{{ site.url }}/hanbai/kodaimai.html#019" />
     数量<input type="text" name="num" value="" size="3" /><br>
     <input type="submit" value="かごに入れる" />
     </form> -->
