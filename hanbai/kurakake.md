@@ -1,9 +1,9 @@
 ---
 layout: hanbai
 tag: 自然農
-title: 鞍掛大豆 | お買い物コーナー
+title: 鞍掛豆 | お買い物コーナー
 ---
-# 鞍掛大豆
+# 鞍掛豆（鞍掛青大豆）
 
 「浸し豆」という料理を知っていますか。
 
@@ -23,7 +23,7 @@ title: 鞍掛大豆 | お買い物コーナー
 
 <table class="order-box"><tbody><tr>
   <td><img src="https://c1.staticflickr.com/9/8730/16611810190_fdc7ed297c_s.jpg"/></td>
-  <td>鞍掛大豆 1kg<br>
+  <td>鞍掛豆 1kg<br>
     <b>￥2,000</b> (税込)
   </td>
   <td>
@@ -37,7 +37,7 @@ title: 鞍掛大豆 | お買い物コーナー
 
 <table class="order-box"><tbody><tr>
   <td><img src="https://c1.staticflickr.com/9/8730/16611810190_fdc7ed297c_s.jpg"/></td>
-  <td>鞍掛大豆 200g<br>
+  <td>鞍掛豆 200g<br>
     <b>￥440</b> (税込)
   </td>
   <td>
