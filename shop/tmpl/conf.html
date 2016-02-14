@@ -41,8 +41,11 @@
 
     <h1>確認画面</h1>
 
-<p></p>
-注文内容をご確認の上、「これで注文する」ボタンを押してください。
+    <p style="text-align:left;">注文内容をご確認の上、「これで注文する」ボタンを押してください。</p>
+    <p style="text-align:left;"></p>
+    <div style="text-align: left; font-size: 80%; padding-left: 1em; width: 80%; border: 1px solid rgb(170, 170, 170); text-indent: 1em; margin-left: 0.5em;">
+      注文内容の控えがEメールで自動送信されます。携帯電話では迷惑メールになる場合がありますので、noen@kobapan.com からのEメールを受信する設定をして下さい。
+    </div>
 
 <table class="cart_tbl">
 <tr>
@@ -64,19 +67,21 @@
 <!-- item_end -->
 
 <tr>
-	<td colspan="4" class="ta-r">送料</td>
-	<td class="ta-r">￥!postage!</td>
-</tr>
-<!-- tax_begin -->
-<tr>
 	<td colspan="4" class="ta-r">小計</td>
 	<td class="ta-r">￥!kei!</td>
 </tr>
+<tr>
+	<td colspan="4" class="ta-r">送料</td>
+	<td class="ta-r">￥!postage!</td>
+</tr>
+
+<!-- tax_begin -->
 <tr>
 	<td colspan="4" class="ta-r">消費税</td>
 	<td class="ta-r">￥!tax!</td>
 </tr>
 <!-- tax_end -->
+
 <tr>
 	<td colspan="4" class="ta-r">合計</td>
 	<td class="ta-r">￥!all!</td>
@@ -85,7 +90,7 @@
 
 <table class="cart_form">
 <tr>
-	<th colspan="2">▼注文者</th>
+	<th colspan="2">ご注文者</th>
 </tr><tr>
 	<td class="w-key">お名前</td>
 	<td>!c_name!</td>
@@ -112,7 +117,7 @@
 
 <table class="cart_form">
 <tr>
-	<th colspan="2">▼配送先</th>
+	<th colspan="2">配送先</th>
 </tr><tr>
   <td class="w-key">お名前</td>
   <td>!c_name2!</td>
@@ -133,7 +138,7 @@
 
 <table class="cart_form">
 <tr>
-  <th colspan="2">▼その他</th>
+  <th colspan="2">その他</th>
 </tr><tr>
   <td class="w-key">連絡事項</td>
   <td>!renraku!</td>
@@ -170,10 +175,11 @@
           <br>
         </div>
         <div>
-          <b>お支払いについて</b><br>
-          ご注文代金は、前払いでお願いします。<br>
-          商品に請求書を同封致しますので、十日以内にゆうちょ銀行へお支払い下さい。<br>
-          振込手数料は、お客様がご負担して下さい。<br>
+          <b>お支払い・送料について</b><br>
+          ご注文代金は、後払いです。<br>
+          商品に請求書を同封致しますので、十日以内にゆうちょ銀行へお支払い下さい。
+          振込手数料は、お客様がご負担して下さい。
+          尚、合計金額が１万円を超える場合は、先払いにてお願いする場合がございます。<br>
           ご注文者と振込人名義が異なる場合、ご連絡をお願い致します。<br>
           <br>
           商品には別途送料がかかります。原則としてゆうパック（463円～）でお送りします。

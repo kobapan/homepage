@@ -495,7 +495,7 @@ sub send_form {
 	$in{number} = sprintf("%06d", $num);
 
 	# メール件名をMIMEエンコード
-	my $msub = Jcode->new("ガットポンポコ ご注文確認 (自動返信メール)",'utf8')->mime_encode;
+	my $msub = Jcode->new("【自然農 ガットポンポコ】 ご注文ありがとうございました",'utf8')->mime_encode;
 
 	# メールヘッダー定義
 	my $mhead = <<EOM;

@@ -22,33 +22,32 @@ title: 鞍掛大豆 | お買い物コーナー
 能登半島の先端で、自然農の畑に育った、鞍掛大豆。1kgと200gからお選びいただけます。
 
 <table class="order-box"><tbody><tr>
-<td><img src="https://c1.staticflickr.com/9/8730/16611810190_fdc7ed297c_s.jpg"/></td>
-<td>鞍掛大豆 1kg<br>
-<b>￥2,000</b> (税込)
-</td>
-<td>
-  <!-- <form action="{{ site.shopurl }}" method="post" id="003">
-  <input type="hidden" name="code" value="003" />
-  <input type="hidden" name="back" value="{{ site.url }}/hanbai/kurakake.html#003" />
-  数量<input type="text" name="num" value="" size="3" /><br>
-  <input type="submit" value="かごに入れる" />
-  </form> -->
-  <span style="color:red">売り切れ</span>
-</td></tr></tbody></table>
+  <td><img src="https://c1.staticflickr.com/9/8730/16611810190_fdc7ed297c_s.jpg"/></td>
+  <td>鞍掛大豆 1kg<br>
+    <b>￥2,000</b> (税込)
+  </td>
+  <td>
+    <form action="{{ site.shopurl }}" method="post" id="003">
+      <input type="hidden" name="code" value="003" />
+      <input type="hidden" name="back" value="{{ site.url }}/hanbai/kurakake.html#003" />
+      数量<input type="text" name="num" value="" size="3" /><br>
+      <input type="submit" value="かごに入れる" />
+    </form>
+  </td></tr></tbody></table>
 
 <table class="order-box"><tbody><tr>
-<td><img src="https://c1.staticflickr.com/9/8730/16611810190_fdc7ed297c_s.jpg"/></td>
-<td>鞍掛大豆 200g<br>
-<b>￥440</b> (税込)
-</td>
-<td>
-<form action="{{ site.shopurl }}" method="post" id="004">
-<input type="hidden" name="code" value="004" />
-<input type="hidden" name="back" value="{{ site.url }}/hanbai/kurakake.html#004" />
-数量<input type="text" name="num" value="" size="3" /><br>
-<input type="submit" value="かごに入れる" />
-</form>
-</td></tr></tbody></table>
+  <td><img src="https://c1.staticflickr.com/9/8730/16611810190_fdc7ed297c_s.jpg"/></td>
+  <td>鞍掛大豆 200g<br>
+    <b>￥440</b> (税込)
+  </td>
+  <td>
+    <form action="{{ site.shopurl }}" method="post" id="004">
+      <input type="hidden" name="code" value="004" />
+      <input type="hidden" name="back" value="{{ site.url }}/hanbai/kurakake.html#004" />
+      数量<input type="text" name="num" value="" size="3" /><br>
+      <input type="submit" value="かごに入れる" />
+    </form>
+  </td></tr></tbody></table>
 
 
 　
