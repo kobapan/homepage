@@ -3,13 +3,15 @@ html {
 }
 
 body {
-    font-family:'Lucida Grande','Hiragino Kaku Gothic ProN',Meiryo, sans-serif;
+    font-family:
+    M+ C Type-1 (basic latin) Regular',
+    M+ Type-1 (general-j) Regular', sans-serif;
     padding: 0 0 40px;
     text-align: center;
     line-height: 2;
 }
 body, a, b {
-    color: #222222;
+    color: #333;
 }
 .clear {
     clear:both;
@@ -36,7 +38,8 @@ h1,h2,h3,h4,h5 {
     font-style:italic;
 }
 h1 {
-    border-left: 15px solid #333333;
+    border-left: 15px solid #007bbb;
+    color:#007bbb;
     font-size: 26px;
     height: 42px;
     letter-spacing: 0.02em;
@@ -104,7 +107,7 @@ header > p.page > a {
 }
 header > p > a {
     border-bottom: medium none;
-    color: #444444;
+    color: #2792c3;
     font-size: 20px;
     font-weight: bold;
     margin-top: 0;
