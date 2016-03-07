@@ -3,7 +3,7 @@
 <div class="related-posts-area">
 <span>「<em><a href="{{site.url}}/tags/{{ page.tag }}">{{ page.tag }}</a></em>」のおたより</span>
 <ul class="related-posts">
-{% for post in site.tags[page.tag] limit:7 %}
+{% for post in site.tags[page.tag] limit:5 %}
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
