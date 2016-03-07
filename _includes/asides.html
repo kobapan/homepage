@@ -1,5 +1,4 @@
 {% if page.tag  %}
-{% unless paginator %}
 <div><a href="{{site.url}}/blog">畑だより</a></div>
 <div class="related-posts-area">
 <span>「<em><a href="{{site.url}}/tags/{{ page.tag }}">{{ page.tag }}</a></em>」のおたより</span>
@@ -9,7 +8,6 @@
 {% endfor %}
 </ul>
 </div>
-{% endunless %}
 {% endif %}
 <ul class="pages">
   {% unless page.tag  %}
