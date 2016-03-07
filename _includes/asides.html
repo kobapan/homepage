@@ -1,5 +1,5 @@
-{% if page.tag  %}
 <div><a href="{{site.url}}/blog">畑だより</a></div>
+{% if page.tag  %}
 <div class="related-posts-area">
 <span>「<em><a href="{{site.url}}/tags/{{ page.tag }}">{{ page.tag }}</a></em>」のおたより</span>
 <ul class="related-posts">
@@ -10,9 +10,6 @@
 </div>
 {% endif %}
 <ul class="pages">
-  {% unless page.tag  %}
-  <li><a href="{{site.url}}/blog">畑だより</a></li>
-  {% endunless %}
   <li><a href="{{site.url}}/suzuben">珠洲ことば</a></li>
   <li><a href="{{site.url}}/hanbai">野菜販売</a></li>
   <li><a href="{{site.url}}/recipe">レシピ集</a></li>
