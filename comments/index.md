@@ -1,6 +1,5 @@
 ---
 layout: page
-tag: その他
 title: コメント一覧
 ---
 <script src='http://intensedebate.com/widgets/acctComment/386320/25' defer="defer" type='text/javascript'> </script>
