@@ -32,7 +32,7 @@ title: 関連情報
 - [つる新種苗店](http://www.mcci.or.jp/www/tsurusin/index.htm)
 - [松下種苗店](http://www.matsushitaseed.jp/)<br>
 加賀野菜の種子など
-- [ナチュラルシードネットワーク](http://www.natural-seed.net/hanbai.html)
+<!-- - [ナチュラルシードネットワーク](http://www.natural-seed.net/hanbai.html) -->
 
 
 ## 手作業の農具が買えるところ
