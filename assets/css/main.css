@@ -96,7 +96,9 @@ header {
     position: fixed;
 }
 header > p {
-   width:50%;
+    margin: 0 auto;
+    text-align: left;
+    width: 60%;
 }
 header > p.page > a {
     background-image: url("https://c2.staticflickr.com/6/5596/14708877919_5cdfc2c1c4.jpg");
