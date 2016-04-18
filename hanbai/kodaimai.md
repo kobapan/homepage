@@ -27,12 +27,13 @@ tag: 自然農
     <b>￥220</b> (税込)
   </td>
   <td>
-    <form action="{{ site.shopurl }}" method="post" id="017">
+    <!-- <form action="{{ site.shopurl }}" method="post" id="017">
     <input type="hidden" name="code" value="017" />
     <input type="hidden" name="back" value="{{ site.url }}/hanbai/kodaimai.html#017" />
     数量<input type="text" name="num" value="" size="3" /><br>
     <input type="submit" value="かごに入れる" />
-    </form>
+    </form> -->
+  <span style="color:red">売り切れ</span>
   </td></tr></tbody></table>
 
 <table class="order-box"><tbody><tr>
