@@ -202,7 +202,8 @@ aside > div.related-posts-area > ul.related-posts > li {
     padding-left: 10px;
 }
 .indent-1 {
-    padding-left:1em;
+    list-style: inside none square;
+    padding-left: 0.5em;
 }
 
 p.posts, p.posts>a {
