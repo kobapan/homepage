@@ -111,3 +111,10 @@ Ernie & Erica にヒントが書いてあった。
 
 腑に落ちたところで、断熱とロケットストーブの基本型ということを大事にして、作ってみた。
 [ロケットストーブには珪藻土レンガ](http://kobapan.com/blog/2015/10/22/rocket.html)
+　
+　
+
+## 関連記事
+- [二年目のロケットストーブ炬燵](http://kobapan.com/blog/2015/11/15/rocket.html)
+- [ロケットストーブには珪藻土レンガ](http://kobapan.com/blog/2015/10/22/rocket.html)
+
