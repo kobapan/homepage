@@ -115,4 +115,5 @@ Ernie & Erica にヒントが書いてあった。
 ## 関連記事
 - [二年目のロケットストーブ炬燵](http://kobapan.com/blog/2015/11/15/rocket.html)
 - [ロケットストーブには珪藻土レンガ](http://kobapan.com/blog/2015/10/22/rocket.html)
+- [サクッともっちり、パン作り](http://kobapan.com/blog/2015/12/01/bread.html)
 
