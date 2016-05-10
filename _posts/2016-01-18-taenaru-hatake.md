@@ -63,7 +63,7 @@ title: 一陽自然農園見学会
 
 [徳島自然農016　沖津さん道具 - YouTube](https://www.youtube.com/watch?v=lPE8sL1UaQ4)のコメントで、[一介の百姓見習い](https://www.youtube.com/channel/UCxz055G5MrKrs4NQC7jvEhQ)さんから、沖津さん指導の田圃と畑のDVDの存在を教えていただいた。全国集会でも知人の間で噂になりながら、真相にたどり着けなかったけども、ちゃんと出会うことができた。一介の百姓見習いさんありがとうございます。
 
-><img src="http://www1.linkclub.or.jp/%7Eamal/images/dvd.jpg" width="250px"/><img src="http://www1.linkclub.or.jp/%7Eamal/images/dvdi.jpg" width="250px"/>
+><img src="http://www1.linkclub.or.jp/%7Eamal/images/dvd.jpg" width="250px"/>　<img src="http://www1.linkclub.or.jp/%7Eamal/images/dvdi.jpg" width="250px"/>
 >「[自然農実践](http://www1.linkclub.or.jp/~amal/workshop.html)」にて購入できます
 
 
