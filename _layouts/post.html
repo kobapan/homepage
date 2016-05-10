@@ -9,21 +9,6 @@ layout: default
 {{ content }}
 </div>
 
-<br>
-
-<a href="{{site.url}}/blog">畑だより</a>
-<div class="paginat-links">
-  {% if page.previous %}<a href="{{site.url}}{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>{% else %}<span> </span>{% endif %}{% if page.next %}<a href="{{site.url}}{{ page.next.url }}/">{{ page.next.title }} &raquo;</a>{% else %}<span> </span>{% endif %}
-</div>
-
-<br>
-
-<a href="{{site.url}}/tags/{{ page.tag }}">「{{ page.tag }}」のお便り</a>
-<div class="paginat-links">
-  {% if page.tag_previous %}<a href="{{site.url}}{{ page.tag_previous.url }}">&laquo; {{ page.tag_previous.title }}</a>{% else %}<span> </span>{% endif %}{% if page.tag_next %}<a href="{{site.url}}{{ page.tag_next.url }}">{{ page.tag_next.title }} &raquo;</a>{% else %}<span> </span>{% endif %}
-</div>
-
-<br>
 <!-- facebook ここから -->
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -45,6 +30,22 @@ layout: default
 <div id="pageview"><img src="http://kobapan.com/c/?l={{page.url}}&u=1">views</div>
 <!-- page view ここまで -->
 
+<br>
+<br>
+
+<a href="{{site.url}}/blog">畑だより</a>
+<div class="paginat-links">
+  {% if page.previous %}<a href="{{site.url}}{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>{% else %}<span> </span>{% endif %}{% if page.next %}<a href="{{site.url}}{{ page.next.url }}/">{{ page.next.title }} &raquo;</a>{% else %}<span> </span>{% endif %}
+</div>
+
+<br>
+
+<a href="{{site.url}}/tags/{{ page.tag }}">「{{ page.tag }}」のお便り</a>
+<div class="paginat-links">
+  {% if page.tag_previous %}<a href="{{site.url}}{{ page.tag_previous.url }}">&laquo; {{ page.tag_previous.title }}</a>{% else %}<span> </span>{% endif %}{% if page.tag_next %}<a href="{{site.url}}{{ page.tag_next.url }}">{{ page.tag_next.title }} &raquo;</a>{% else %}<span> </span>{% endif %}
+</div>
+
+<br>
 <!-- intensedebate ここから -->
 <script>
 var idcomments_acct = '75ebb44ab899892ac78b6ebdf0063d4d';
