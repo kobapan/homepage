@@ -26,3 +26,5 @@ title: 下屋に吊るし柿
 [下屋で干し竹の子](http://kobapan.com/blog/2015/04/29/hoshitakenoko.html)
 
 [下屋で干しもん](http://kobapan.com/blog/2015/06/23/hoshimon.html)
+
+[吊るし柿（干し柿）の作り方](http://kobapan.com/blog/2014/10/09/turushigaki.html)

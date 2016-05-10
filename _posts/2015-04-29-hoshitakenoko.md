@@ -22,3 +22,5 @@ title: 下屋で干し竹の子
 [下屋で干しもん](http://kobapan.com/blog/2015/06/23/hoshimon.html)
 
 [下屋に吊るし柿](http://kobapan.com/blog/2015/10/15/turushigaki.html)
+
+[吊るし柿（干し柿）の作り方](http://kobapan.com/blog/2014/10/09/turushigaki.html)

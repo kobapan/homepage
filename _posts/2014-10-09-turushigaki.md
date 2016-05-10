@@ -69,3 +69,12 @@ title: 吊るし柿（干し柿）の作り方
 在所のHさんにも聞いてみよう。今年は更に美味しい吊るし柿になりますように。
 
 
+##関連記事
+[念願の下屋を建てた](http://kobapan.com/blog/2015/04/20/geya.html)
+
+[下屋で干し竹の子](http://kobapan.com/blog/2015/04/29/hoshitakenoko.html)
+
+[下屋で干しもん](http://kobapan.com/blog/2015/06/23/hoshimon.html)
+
+[下屋に吊るし柿](http://kobapan.com/blog/2015/10/15/turushigaki.html)
+
