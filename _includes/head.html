@@ -43,7 +43,7 @@ $(document).ready( function () {
             .attr('src','http://' + location.hostname + '/assets/img/white.png ')
             .lazyload({effect: 'fadeIn',effectspeed: 2000});
     });
-    
+
     // 本日のガットポンポコ
     if ($('#todayimage')[0]) {
         $.getJSON("http://api.flickr.com/services/feeds/photoset.gne?jsoncallback=?",
