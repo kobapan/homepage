@@ -18,7 +18,7 @@ layout: default
 
 <br>
 
-{{ page.tag }}のおたより
+「{{ page.tag }}」のお便り
 <div class="paginat-links">
   {% if page.tag_previous %}<a href="{{site.url}}{{ page.tag_previous.url }}">&laquo; {{ page.tag_previous.title }}</a>{% else %}<span> </span>{% endif %}{% if page.tag_next %}<a href="{{site.url}}{{ page.tag_next.url }}">{{ page.tag_next.title }} &raquo;</a>{% else %}<span> </span>{% endif %}
 </div>

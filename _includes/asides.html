@@ -1,14 +1,14 @@
 <div><a href="{{site.url}}/blog">畑だより</a></div>
-{% if page.tag  %}
+{% if page.tag %}{% unless page.path contains '_posts' or page.path contains 'tags'%}
 <div class="related-posts-area">
-<span>「<em><a href="{{site.url}}/tags/{{ page.tag }}">{{ page.tag }}</a></em>」のおたより</span>
+  <span><a href="{{site.url}}/tags/{{ page.tag }}">「<em>{{ page.tag }}</em>」のお便り</a></span>
 <ul class="related-posts">
 {% for post in site.tags[page.tag] limit:5 %}
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 </div>
-{% endif %}
+{% endunless %}{% endif %}
 <ul class="pages">
   <li><a href="{{site.url}}/suzuben">珠洲ことば</a></li>
   <li><a href="{{site.url}}/hanbai">野菜販売</a></li>

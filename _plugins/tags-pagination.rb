@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 module Jekyll
 
   class TagGenerator < Generator
@@ -35,7 +36,7 @@ module Jekyll
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'tag.html')
       self.data['tag'] = tag
-      #self.data['title'] = "Posts Tagged &ldquo;"+tag+"&rdquo;"
+      self.data['title'] = "「"+tag+"」のお便り"
     end
   end
 
