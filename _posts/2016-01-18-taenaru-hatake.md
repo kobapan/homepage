@@ -65,7 +65,7 @@ title: 一陽自然農園見学会
 
 >![](http://www1.linkclub.or.jp/%7Eamal/images/dvd.jpg)
 >![](http://www1.linkclub.or.jp/%7Eamal/images/dvdi.jpg)
-徳島でさいとうのりこさんが運営されているホームページ「>[自然農実践](http://www1.linkclub.or.jp/~amal/workshop.html)」にて購入できます
+徳島でさいとうのりこさんが運営されているホームページ「[自然農実践](http://www1.linkclub.or.jp/~amal/workshop.html)」にて購入できます
 
 
 ##第24回全国実践者の集い「妙なる畑の会〜自然農研さん会」
