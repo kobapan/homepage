@@ -388,3 +388,20 @@ div.archive-single-post-link span.pageview span.pageview-text {
     font-size:9px;
     display: inline-block;
 }
+
+/* カテゴリトップページの最下部に関連記事を表示する */
+figure.related-post {
+    border: 1px solid;
+    float: left;
+    height: 290px;
+    margin-left: 0;
+    overflow: hidden;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    width: 245px;
+}
+figure.related-post img {
+    height: 245px;
+    width: 245px;
+}
