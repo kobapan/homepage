@@ -38,11 +38,11 @@ $(document).ready( function () {
     $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
 
     // lazyload img
-    $('img:not(img.nolazy)').each(function () {
-        $(this).attr('data-original', $(this).attr('src'))
-            .attr('src','http://' + location.hostname + '/assets/img/white.png ')
-            .lazyload({effect: 'fadeIn',effectspeed: 2000});
-    });
+    // $('img:not(img.nolazy)').each(function () {
+    //     $(this).attr('data-original', $(this).attr('src'))
+    //         .attr('src','http://' + location.hostname + '/assets/img/white.png ')
+    //         .lazyload({effect: 'fadeIn',effectspeed: 2000});
+    // });
 
     // 本日のガットポンポコ
     if ($('#todayimage')[0]) {
