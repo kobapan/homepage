@@ -98,7 +98,7 @@ header {
 header > p {
     margin: 0 auto;
     text-align: left;
-    width: 60%;
+    width: 940px;
 }
 header > p.page > a {
     background-image: url("https://c2.staticflickr.com/6/5596/14708877919_5cdfc2c1c4.jpg");
