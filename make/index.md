@@ -79,13 +79,12 @@ tag: 作る
 ## 風力エネルギー
 風力というと風力発電がもてはやされる昨今だけど、井戸水の汲み上げや、石臼の回転などにも使いたいと思う。
 
-## 小水力エネルギー
-小水力というとこれまた発電がもてはやされる昨今だけど、伝統的には挽き臼だよね。里芋の皮剥きとか、服の洗濯なんかもできる。あーしかし、我が家周辺には、そういう向きの川がない。
-
 >　
 ><iframe width="420" height="315" src="//www.youtube.com/embed/mcNtFdDXFp0?rel=0" frameborder="0" allowfullscreen></iframe>
 >[匝の自由研究な日々 揚水風車のしくみ](http://eniguma.blog85.fc2.com/blog-entry-2399.html)
 
+## 小水力エネルギー
+小水力というとこれまた発電がもてはやされる昨今だけど、伝統的には挽き臼だよね。里芋の皮剥きとか、服の洗濯なんかもできる。あーしかし、我が家周辺には、そういう向きの川がない。
 
 ##「{{ page.tag }}」人気のお便り
 <figure class="related-post"><a href="http://kobapan.com/blog/2014/04/28/aku.html"><img src="https://c2.staticflickr.com/6/5114/14064907143_d0d5254946.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/04/28/aku.html">灰で作る洗剤</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2015/10/22/rocket.html"><img src="https://c1.staticflickr.com/1/679/21723145373_a6946fb042.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2015/10/22/rocket.html">ロケットストーブには珪藻土レンガ</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2015/12/01/bread.html"><img src="https://c2.staticflickr.com/6/5658/23062057634_2d4c703fdb.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2015/12/01/bread.html">サクッともっちり、パン作り</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2015/02/12/miso.html"><img src="https://c2.staticflickr.com/8/7407/15915865703_eb10c488b1.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2015/02/12/miso.html">味噌@湯宿さか本</a></figcaption></figure>
