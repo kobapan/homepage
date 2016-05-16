@@ -59,9 +59,9 @@ tag: 作る
 ### 天水（あまみず）
 ところで雨水。(;ﾟдﾟ)ｺﾞｸﾘ。東京の雨水でも２時間１分目からは飲めるという話。
 
->東京の雨水もちゃんと飲めるんです。降り始めは、もちろん汚れています。そこでおじさんはしつこく調査を行ったのですが、２時間、目いっぱい降った後の水を採集して調べると、真水と変わらないほどきれいなものだったのです。 [カリスマホームレスに訊け！](http://bp.shogakukan.co.jp/0yenhouse/vol4_01.html)
+><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/k/kawasimanobuo/20130205/20130205144822.jpg" height="300px"/> [ノボ村長の開拓日誌](http://d.hatena.ne.jp/kawasimanobuo/20130206/p1)
 
-><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/k/kawasimanobuo/20130205/20130205144822.jpg" height="200px"/> [ノボ村長の開拓日誌](http://d.hatena.ne.jp/kawasimanobuo/20130206/p1)
+>東京の雨水もちゃんと飲めるんです。降り始めは、もちろん汚れています。そこでおじさんはしつこく調査を行ったのですが、２時間、目いっぱい降った後の水を採集して調べると、真水と変わらないほどきれいなものだったのです。 [カリスマホームレスに訊け！](http://bp.shogakukan.co.jp/0yenhouse/vol4_01.html)
 
 >雷雨の翌日の雨水がとても綺麗に澄んでいて飲んでみたら非常に美味しかった。 [珈琲gou](http://www.coffee-gou.com/article/14791616.html)
 
