@@ -17,7 +17,7 @@ tag: 作る
 
 エネルギーを得るために、自分で出来そうなことはなにかと考えては実験している。自然には利用されていないエネルギーが沢山ある。それらを無駄無く適正に取り出して利用するのはとても面白いと思う。
 
-例えば、「薪」はすごい。調理、暖房、お風呂となんでもこなす。火の魔術。(;ﾟдﾟ)。「天ぷら廃油」。我が家では使いきっちゃうからこれ発生しないけど、お風呂を沸かしたり、車を走らせたりできるらしいぞ。忘れてはいけない「太陽光」という力。温水器や太陽光発電って案外簡単に作れる。日本の近代農業は足踏み脱穀機や唐箕、唐臼、立鎌といったとても便利な「手足作業器具」を大発明してきた。素晴らしい完成度を持つこれらの道具を縦横無尽に使いこなしていきたい。水もおもしろい。「[揚水風車](http://www.enecafe.com/interdomain/idyosui/indexyosui.htm)」や「[雨水再利用システム](http://d.hatena.ne.jp/kawasimanobuo/20130206/p1)」、「[Sling pump](http://www.energotech.gr/index.php?option=com_content&task=view&id=51&Itemid=77&lang=en)」、「[生物浄化](http://blogs.yahoo.co.jp/cwscnkmt/folder/1163785.html)」などなど。
+例えば「薪」はすごい。調理、暖房、お風呂となんでもこなす、火の魔術。(;ﾟдﾟ)。「天ぷら廃油」。我が家では使いきっちゃうからこれ発生しないけど、お風呂を沸かしたり、車を走らせたりできるらしいぞ。忘れてはいけない「太陽光」という力。温水器や太陽光発電って案外簡単に作れる。日本の近代農業は足踏み脱穀機や唐箕、唐臼、立鎌といったとても便利な「手足作業器具」を大発明してきた。素晴らしい完成度を持つこれらの道具を縦横無尽に使いこなしていきたい。水もおもしろい。「[揚水風車](http://www.enecafe.com/interdomain/idyosui/indexyosui.htm)」や「[雨水再利用システム](http://d.hatena.ne.jp/kawasimanobuo/20130206/p1)」、「[Sling pump](http://www.energotech.gr/index.php?option=com_content&task=view&id=51&Itemid=77&lang=en)」、「[生物浄化](http://blogs.yahoo.co.jp/cwscnkmt/folder/1163785.html)」などなど。
 
 
 
