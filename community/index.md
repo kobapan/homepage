@@ -18,5 +18,5 @@ tag: 地域社会
 ## 地域関連の活動
 <style>table{border:1px grey solid;}td{padding:0px;</style>
 <table><tr>
-<td><a href="http://a-ichi.jimdo.com/" target="_blank"><img alt="無農薬野菜市 ゑゝ市" src="http://kobapan.com/f/a-ichi.banner.png" style="width:280px;"></a></td>
+<td><a href="http://a-ichi.jimdo.com/" target="_blank"><img alt="無農薬野菜市 ゑゝ市" src="https://c2.staticflickr.com/8/7483/26773368610_1fbe4ab065.jpg" style="width:280px;"></a></td>
 </tr></table>
