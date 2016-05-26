@@ -16,16 +16,11 @@ permalink: /blog/:categories/:year/:month/:day/:title.html
 paginate : 15
 paginate_path: "blog/page:num"
 
-tagurl:
+tag_urls:
   自然農: sizen-nou
   食べる森: edible-forest-garden
   地域: community
   作る: make
-  see: "http://rcmdnk.github.io/blog/2016/03/15/blog-octopress/"
-
-
-tag_title_prefix: "「"
-tag_title_suffix: "」 記事一覧"
 
 sitemap:
     file: "/sitemap.xml"
