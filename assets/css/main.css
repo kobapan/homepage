@@ -47,6 +47,12 @@ h1 {
     margin: 0;
     padding-left: 0.5em;
 }
+h1.page {
+    border:none;
+    color:#fff;
+    font-size: 52px;
+    height: 84px;
+}
 h2 {
     margin: 1.5em 0 0;
     border-bottom: 1px dotted #999999;
