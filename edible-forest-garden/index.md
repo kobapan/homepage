@@ -34,5 +34,5 @@ tag: 食べる森
 
 ##「{{ page.tag }}」人気のお便り
 <figure class="related-post"><a href="http://kobapan.com/blog/2014/10/09/turushigaki.html"><img src="https://c2.staticflickr.com/4/3928/15380926548_620f948dc5.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/10/09/turushigaki.html">吊るし柿（干し柿）の作り方</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2014/11/06/inoshishi.html"><img src="https://c2.staticflickr.com/4/3941/15725598412_14ef8f5dea.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/11/06/inoshishi.html">いのししうまい</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2014/10/20/tako.html"><img src="https://c2.staticflickr.com/4/3954/15411250199_9d56238c5a.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/10/20/tako.html">タコすかしの季節</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2014/01/28/saba.html"><img src="http://farm8.staticflickr.com/7337/12189039664_ac2bac0b8e.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/01/28/saba.html">鯖の回りもの</a></figcaption></figure>
-<p style="clear:both;"><s><a href="{{site.url}}/tags/{{ page.tag }}">「{{ page.tag }}」のお便り一覧&raquo;</a></s></p>
+<p style="clear:both;"><a href="{{site.url}}/tags/{{ page.tag }}">「{{ page.tag }}」のお便り一覧&raquo;</a></p>
 
