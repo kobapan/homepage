@@ -75,5 +75,5 @@ title: 一陽自然農園見学会
 これがテーマとして現れる会だった。このことが、すごく勉強になった三日間だった。ありがとうございました。
 
 
-※「自然農実践」の[workshopのページ](http://www1.linkclub.or.jp/~amal/workshop.html)で、当日の内容を書き起こして下さっています。
+※「自然農実践」の[workshopのページ](http://www1.linkclub.or.jp/~amal/workshop2016-1.html)で、当日の内容を書き起こして下さっています。
 
