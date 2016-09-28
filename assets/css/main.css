@@ -3,9 +3,7 @@ html {
 }
 
 body {
-    font-family:
-    'M+ C Type-1 (basic latin) Regular',
-    'M+ Type-1 (general-j) Regular', sans-serif;
+    font-family:sans-serif;
     padding: 0 0 40px;
     text-align: center;
     line-height: 2;
