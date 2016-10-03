@@ -73,6 +73,10 @@ div.pagination {
 }
 h1 {
     height:auto;
+
+}
+h1.page {
+    font-size: 34px;
 }
 div#hanbai table.order-box {
     width: 100%;
