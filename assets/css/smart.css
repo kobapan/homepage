@@ -35,7 +35,7 @@ div#contents article {
     width: 100%;
     margin: 40px 0 10px;
     padding-bottom: 20px;
-    border-bottom: 1px solid;
+    border-bottom: 1px dashed;
 }
 div#contents article > p.meta {
     margin-top:0;
