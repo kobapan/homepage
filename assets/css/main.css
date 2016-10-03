@@ -165,6 +165,10 @@ div#contents footer {
     text-align: right;
 }
 
+div#contents img.amazon-img {
+    width:10%;
+}
+
 /* footer */
 a.atom-rss {
     background-image: url("http://kobapan.com/assets/img/rss.png");

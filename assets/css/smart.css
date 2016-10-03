@@ -19,6 +19,9 @@ div#contents img {
     width:100%;
     margin-left: -20px;
 }
+div#contents img.amazon-img {
+    width:10%;
+}
 div#contents aside {
     float: none;
     margin-top: 10px;
@@ -31,7 +34,7 @@ div#contents aside div#todayimage img {
     width:50%;
 }
 div#banner-area {
-    margin-left:1%;
+    padding-left:2px;
 }
 div#contents article {
     float: left;
