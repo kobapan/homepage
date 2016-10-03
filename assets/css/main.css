@@ -407,6 +407,7 @@ figure.related-post {
     width: 245px;
 }
 figure.related-post img {
-    height: 245px;
-    width: 245px;
+    max-height: 80%;
+    min-height: 80%;
+    width: 100%;
 }
