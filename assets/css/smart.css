@@ -75,7 +75,7 @@ h1 {
     height:auto;
 }
 h1.page {
-    font-size: 40px;
+    font-size: 38px;
 }
 div#hanbai table.order-box {
     width: 100%;
@@ -114,5 +114,5 @@ div.archive-single-post-link span.pageview span.pageview-text {
 }
 figure.related-post {
     height: 110px;
-    width: 40%;
+    width: 38%;
 }
