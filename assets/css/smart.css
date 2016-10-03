@@ -24,7 +24,6 @@ div#contents aside {
     margin-top: 10px;
     position: relative;
     width: 100%;
-    border: 1px solid;
 }
 div#contents aside div#todayimage img {
     margin-left:0;
@@ -35,7 +34,7 @@ div#contents article {
     float: left;
     width: 100%;
     margin: 40px 0 10px;
-    border-bottom: 10px solid white;
+    border-bottom: 1px solid;
 }
 div#contents article > p.meta {
     margin-top:0;
