@@ -24,6 +24,10 @@ div#contents aside {
     margin-top: 10px;
     position: relative;
     width: 100%;
+    border: 1px solid;
+    padding-left: 1%;
+}
+
 }
 div#contents aside div#todayimage img {
     margin-left:0;
