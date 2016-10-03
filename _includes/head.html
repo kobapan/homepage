@@ -19,18 +19,18 @@
 <!-- Custom CSS -->
 <link rel="stylesheet" href="{{site.url}}/assets/css/main.css">
 <!--[if lte IE 8]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-<link media="screen and (max-width:480px)" href="{{site.url}}/assets/css/smart.css" type="text/css" rel="stylesheet" />
+<!-- <link media="screen and (max-width:480px)" href="{{site.url}}/assets/css/smart.css" type="text/css" rel="stylesheet" />
 
 <!-- js -->
 <script src="{{site.url}}/assets/js/jquery.js"></script>
-<script src="{{site.url}}/assets/js/jquery.lazyload.min.js"></script>
+<!-- <script src="{{site.url}}/assets/js/jquery.lazyload.min.js"></script> -->
 
 <!-- feed -->
 <link href="{{site.url}}/feed.xml" type="application/atom+xml" rel="alternate">
 
 <!-- favicon -->
 <link rel="shortcut icon" href="{{site.url}}/assets/img/favicon.ico">
-<link rel="icon" type="image/gif" href="{{site.url}}/assets/img/animated_favicon1.gif" >
+<link rel="icon" type="image/gif" href="{{site.url}}/assets/img/animated_favicon1.gif" > -->
 
 <script language="JavaScript">
 $(document).ready( function () {
@@ -43,6 +43,15 @@ $(document).ready( function () {
     //         .attr('src','http://' + location.hostname + '/assets/img/white.png ')
     //         .lazyload({effect: 'fadeIn',effectspeed: 2000});
     // });
+
+    // responsive
+    if ((navigator.userAgent.indexOf('iPhone') > 0 && navigator.userAgent.indexOf('iPad') == -1) ||
+        navigator.userAgent.indexOf('iPod') > 0 ||
+        (navigator.userAgent.indexOf('Android') > 0  && navigator.userAgent.indexOf('Mobile')  > 0)) {
+
+        $('head').append('<link>');
+        $('head').children(':last').attr({rel:'stylesheet',href:'{{site.url}}/assets/css/smart.css'}); 
+    }
 
     // 本日のガットポンポコ
     if ($('#todayimage')[0]) {
