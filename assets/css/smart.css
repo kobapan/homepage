@@ -116,7 +116,3 @@ figure.related-post {
     height: auto;
     width: 38%;
 }
-figure.related-post img {
-    max-height: 100px;
-    width: 100%;
-}
