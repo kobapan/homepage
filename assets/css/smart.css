@@ -113,6 +113,6 @@ div.archive-single-post-link span.pageview img {
 div.archive-single-post-link span.pageview span.pageview-text {
 }
 figure.related-post {
-    height: auto;
-    width: 38%;
+    height: 110px;
+    width: 100px;
 }
