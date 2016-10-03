@@ -33,7 +33,7 @@ div#contents aside div#todayimage img {
 div#contents article {
     float: left;
     width: 100%;
-    margin: 40px 0 10px;
+    margin: 40px 0 20px 10px;
     border-bottom: 1px solid;
 }
 div#contents article > p.meta {
