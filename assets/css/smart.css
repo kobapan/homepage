@@ -112,3 +112,11 @@ div.archive-single-post-link span.pageview img {
 }
 div.archive-single-post-link span.pageview span.pageview-text {
 }
+figure.related-post {
+    height: auto;
+    width: 40%;
+}
+figure.related-post img {
+    height: auto;
+    width: 38%;
+}
