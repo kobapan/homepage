@@ -30,6 +30,9 @@ div#contents aside div#todayimage img {
     height:auto;
     width:50%;
 }
+div#banner-area {
+    margin-left:1%;
+}
 div#contents article {
     float: left;
     width: 100%;
