@@ -30,4 +30,8 @@ title: 人間が祭りに興じている間に、イノシシも祭りをして�
 なんと！細長い畑は畔が長い。知らなかった。なんとなく、そう感じるだけだと思っていた。けど、本当に長かったんだね。畔の草刈りにやたらと時間がかかるわけだ。皆さん田畑を借りるときは、なるべく正方形に近いところを借りましょうね。
 
 
+<iframe src="https://www.facebook.com/plugins/comment_embed.php?href=https%3A%2F%2Fwww.facebook.com%2Fkobapan%2Fposts%2F10206206290471065%3Fcomment_id%3D10206206349112531&include_parent=false" width="560" height="121" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/comment_embed.php?href=https%3A%2F%2Fwww.facebook.com%2Fkobapan%2Fposts%2F10206206290471065%3Fcomment_id%3D10206206554717671&include_parent=false" width="560" height="121" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/comment_embed.php?href=https%3A%2F%2Fwww.facebook.com%2Fkobapan%2Fposts%2F10206206290471065%3Fcomment_id%3D10206206570318061&include_parent=false" width="560" height="161" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/comment_embed.php?href=https%3A%2F%2Fwww.facebook.com%2Fkobapan%2Fposts%2F10206206290471065%3Fcomment_id%3D10206206865205433&include_parent=false" width="560" height="181" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
