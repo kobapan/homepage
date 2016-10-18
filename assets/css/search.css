@@ -34,3 +34,7 @@
 #matchedList p {
     text-align: center;
 }
+#matchedList p img {
+    width:24px;
+    height:24px;
+}
