@@ -43,7 +43,7 @@ title: 関連情報
 
 ## 野菜の種の蒔き時など
 - [石川県-みんなの質問箱～野菜（果菜）～の回答](http://www.pref.ishikawa.lg.jp/noken/noushi/qa/yasai/kana/answer.html)
-- [奈良県での川口さんの農事歴](http://iwazumi.nsf.jp/tizu/shusiorosi.htm)
+- [奈良県での川口さんの農事歴](http://iwazumi.sakura.ne.jp/tizu/shusiorosi.htm)
 
 
 ## おすすめ書籍
