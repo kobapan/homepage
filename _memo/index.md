@@ -4,6 +4,8 @@ title: memo
 ---
 <ul>
 {% for mem in site.memo %}
-  <li>{{ site.url }}{{ mem.url }} {{ mem.title }}</li>
+   {% unless mem.title == "memo" %}
+  <li><a href="{{ site.url }}{{ mem.url }}">{{ mem.title }}</a></li>
+  {% endunless %}
 {% endfor %}
 </ul>
