@@ -2,7 +2,8 @@
 layout: page
 title: memo
 ---
+<ul>
 {% for mem in site.memo %}
-  <h2>{{ mem.title }}</h2>
-  {{ mem.url }}
+  <li>{{ site.url }}{{ mem.url }} {{ mem.title }}</li>
 {% endfor %}
+</ul>
