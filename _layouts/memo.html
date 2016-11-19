@@ -1,11 +1,9 @@
 ---
 layout: default
 ---
-<div id="page">
-<h1 class="page">{{ page.title }}</h1>
-<a href="{{ site.url }}{{ site.memo[0].url }}">memo</a>
+<div>
+  <a href="{{ site.url }}{{ site.memo[0].url }}">memo</a> &gt; {{ page.title }}
 
 {{ content }}
 
-<a href="{{ site.url }}{{ site.memo[0].url }}">memo</a>
 </div>
