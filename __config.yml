@@ -16,6 +16,10 @@ permalink: /blog/:categories/:year/:month/:day/:title.html
 paginate : 15
 paginate_path: "blog/page:num"
 
+collections:
+  memo:
+    output: true
+
 tag_urls:
   自然農: sizen-nou
   食べる森: edible-forest-garden
@@ -32,3 +36,4 @@ sitemap:
         - "/blog/index.html"
 
 exclude: [publish.sh, shop]
+
