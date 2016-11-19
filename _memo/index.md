@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: memo
 title: memo
 ---
 <ul>
