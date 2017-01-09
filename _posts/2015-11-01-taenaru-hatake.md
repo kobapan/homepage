@@ -174,3 +174,8 @@ title: 妙なる畑の会 見学会
 
 
 
+## 関連記事
+- [今年の稲架三種類](http://kobapan.com/blog/2015/11/23/haza.html)
+- [稲架を立てるときの縄の掛け方](http://kobapan.com/blog/2013/07/29/haza.html)
+- [稲架木の引っこ抜き方を肋骨で覚えた](http://kobapan.com/blog/2017/01/08/haza.html)
+- [指がスパッと切れた](http://kobapan.com/blog/2014/08/08/kega.html)
