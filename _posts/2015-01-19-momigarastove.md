@@ -38,8 +38,8 @@ title: 籾殻でソーダストストーブの試作
 そうなのか。
 
 やっぱりヌカクド↓か
-<a href="http://www.ultraman.gr.jp/perma/nukakudo2008.htm"><img src="http://pds.exblog.jp/pds/1/201001/27/31/a0161231_23363791.jpg"></a>
+<a href="http://www.ultraman.gr.jp/perma/nukakudo2008.htm"><img src="http://pds.exblog.jp/pds/1/201001/27/31/a0161231_23363791.jpg"></a><a href="http://www.ultraman.gr.jp/perma/nukakudo2008.htm">シャンティクティ</a>
  
 lo trau↓を作るかな。
-<a href="http://en.wikipedia.org/wiki/L%C3%B2_tr%E1%BA%A5u"><img src="http://nnptntvinhphuc.gov.vn/imageupload/san_pham_lua_gao/12_trau04.jpg"></a>
+<a href="http://en.wikipedia.org/wiki/L%C3%B2_tr%E1%BA%A5u"><img src="http://nnptntvinhphuc.gov.vn/imageupload/san_pham_lua_gao/12_trau04.jpg"></a><a href="http://en.wikipedia.org/wiki/L%C3%B2_tr%E1%BA%A5u">wikipedia</a>
 
