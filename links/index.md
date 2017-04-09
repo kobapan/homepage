@@ -9,9 +9,11 @@ title: 関連情報
 - noen@kobapan.com
 
 ## 自然農についていろいろと分かるホームページなど
-- [全国の自然農学びの場](http://iwazumi.sakura.ne.jp/tizu/manabinobaitirann.htm)
+- [自然農への誘い](https://kawaguchiyoshikazu.localinfo.jp/)
+- [赤目自然農塾](https://akameshizennoujyuku.localinfo.jp/)
+- [自然農・いのちのことわり　田畑における具体的問題と解決](https://shizen-nou.jimdo.com/)
+- [自然農全体の案内27年度.pdf](https://drive.google.com/file/d/0B3XN7pxQ8mv0bjlLVmtJa0p6UE0)
 - [動画で分かる川口由一さんの自然農](http://shizennou.info/?cat=3)
-- [自然農の田畑における具体的問題と解決](http://shizen-nou.jimdo.com)
 - [気楽に自然農（赤目自然農塾での自然農の学び）](http://iwazumi.sakura.ne.jp/)
 - [安曇野自然農学習会のレポート](http://www.ultraman.gr.jp/sizennou/)
 - [2012福岡自然農塾 - YouTube](https://www.youtube.com/playlist?list=PL2Bgc7LgRMGnH8BknBGn0jtnoNJjSzq8p)

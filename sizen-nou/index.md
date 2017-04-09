@@ -71,3 +71,10 @@ tag: 自然農
 <figure class="related-post"><a href="http://kobapan.com/blog/2014/07/09/taue.html"><img src="https://c1.staticflickr.com/3/2909/14588993926_9ed20f823c.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/07/09/taue.html">田植え</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2016/06/29/tanbo.html"><img src="https://c2.staticflickr.com/8/7353/27899832386_2b0f1d1e5a.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2016/06/29/tanbo.html">ことしのたんぼ</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2015/03/06/taenaru-hatake.html"><img src="https://c1.staticflickr.com/9/8644/16525178297_de5bbe721c.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2015/03/06/taenaru-hatake.html">妙なる畑の会 見学会</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2016/05/09/kowasu.html"><img src="http://ecx.images-amazon.com/images/I/514PYS0PFHL._SX333_BO1,204,203,200_.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2016/05/09/kowasu.html">作っては壊しては、作り直す</a></figcaption></figure>
 <p style="clear:both;"><a href="{{site.url}}/tags/{{ page.tag }}">「{{ page.tag }}」のお便り一覧&raquo;</a></p>
 
+
+##参考ホームページ
+- [自然農への誘い](https://kawaguchiyoshikazu.localinfo.jp/)
+- [赤目自然農塾](https://akameshizennoujyuku.localinfo.jp/)
+- [自然農・いのちのことわり　田畑における具体的問題と解決](https://shizen-nou.jimdo.com/)
+- [自然農全体の案内27年度.pdf](https://drive.google.com/file/d/0B3XN7pxQ8mv0bjlLVmtJa0p6UE0)
+- [動画で分かる川口由一さんの自然農](http://shizennou.info/?cat=3)
