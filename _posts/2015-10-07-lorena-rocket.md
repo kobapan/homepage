@@ -117,3 +117,4 @@ Ernie & Erica にヒントが書いてあった。
 - [ロケットストーブには珪藻土レンガ](http://kobapan.com/blog/2015/10/22/rocket.html)
 - [サクッともっちり、パン作り](http://kobapan.com/blog/2015/12/01/bread.html)
 - [煉瓦製ぬくぬくベンチ型ロケットストーブ](http://kobapan.com/blog/2014/10/03/rocket.html)
+- [鍋の役割](http://kobapan.com/blog/2015/03/14/pot.html)
