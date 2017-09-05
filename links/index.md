@@ -49,8 +49,8 @@ title: 関連情報
 - [スポット天気予報](http://kobapan.com/w/)<br>
 住所でスポット天気予報が分かります。自分が欲しいと思う情報を集めました。
 - [今月分の過去天気](https://www20.atwiki.jp/kobapan/pages/326.html)<br>
-気象庁の「過去の気象データ検索」を使いやすくするためのブックマークレットです。
-- [Accu Weather](https://www.accuweather.com/)<br>
+気象庁の「過去の気象データ検索」を使いやすくするためのブックマークレットを紹介しています。
+- [AccuWeather](https://www.accuweather.com/)<br>
 アメリカの天気予報。「月間予報」という機能があり、予報の精度は低くなるけど、ずいぶん先までの予報を見られます。
 
 ## おすすめ書籍
