@@ -27,7 +27,7 @@ title: 関連情報
 - [公益財団法人自然農法国際研究開発センター](http://www.infrc.or.jp/seed/seed_02.html)<br>
 無肥料無農薬栽培の種
 - [畑懐](http://ameblo.jp/hafuu-kougousei)<br>
-浜松市の種苗業。[【てくてくねっと】でも購入できるようです](http://www.tekuteku.net/products/list.php?category_id=489)
+浜松市の種苗業。
 - [つる新種苗店](http://www.mcci.or.jp/www/tsurusin/index.htm)
 - [松下種苗店](http://www.matsushitaseed.jp/)<br>
 加賀野菜の種子など
