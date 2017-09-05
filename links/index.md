@@ -51,7 +51,7 @@ title: 関連情報
 - [今月分の過去天気](https://www20.atwiki.jp/kobapan/pages/326.html)<br>
 気象庁の「過去の気象データ検索」を使いやすくするためのブックマークレットを紹介しています。
 - [AccuWeather](https://www.accuweather.com/ja/jp/japan-weather)<br>
-アメリカの天気予報サイト。検索窓に日本語で住所を入れられます。「月間予報」が便利。URLのseptember-weatherとかoctober-weatherとかのところをmonthに変えてブックマークしておくといいと思います。
+アメリカの天気予報サイト。「月間予報」が便利。URLのseptember-weatherとかoctober-weatherとかのところをmonthに変えてブックマークしておくといいと思います。
 
 ## おすすめ書籍
 　
