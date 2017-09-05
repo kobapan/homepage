@@ -45,7 +45,7 @@ title: 関連情報
 
 
 ## 天気予報
-- [スポット天気予報](http://kobapan.com/w/)<br>
+- <a href="http://kobapan.com/w/" target="_blank">スポット天気予報</a><br>
 住所でスポット天気予報が分かります。自分が欲しいと思う情報を集めました。
 - [今月分の過去天気](https://www20.atwiki.jp/kobapan/pages/326.html)<br>
 気象庁の「過去の気象データ検索」を使いやすくするためのブックマークレットを紹介しています。
