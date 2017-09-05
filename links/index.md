@@ -46,9 +46,9 @@ title: 関連情報
 
 
 ## 天気予報
-- [スポット天気予報](http://kobapan.com/w/)
+- [スポット天気予報](http://kobapan.com/w/)<br>
 住所でスポット天気予報が分かります。自分が欲しいと思う情報を集めました。
-- [今月の過去の天気ブックマークレット](javascript:function%20jma(){var%20d=new%20Date(),y=d.getFullYear(),m=String(100+d.getMonth()+1).substr(1,2);window.open('http://www.data.jma.go.jp/obd/stats/etrn/view/daily_a1.php?prec_no=都道府県&block_no=市町村&year='+y+'&month='+m+'&day=&view=','_blank');}jma();void(0);)
+- [今月の過去の天気ブックマークレット](javascript:function%20jma(){var%20d=new%20Date(),y=d.getFullYear(),m=String(100+d.getMonth()+1).substr(1,2);window.open('http://www.data.jma.go.jp/obd/stats/etrn/view/daily_a1.php?prec_no=都道府県&block_no=市町村&year='+y+'&month='+m+'&day=&view=','_blank');}jma();void(0);)<br>
 気象庁の過去の気象データ検索を使いやすくするための[ブックマークレット](https://www.lifehacker.jp/2013/04/130402bookmarklet_matome.html)です。prec_no=都道府県 と block_no=市町村 の値を自分のとこに変えて使ってください。
 
 ## おすすめ書籍
