@@ -20,19 +20,18 @@ title: 関連情報
 ## 伝統野菜の在来種子や、固定種子が買えるところ
 
 - [野口のタネ](http://noguchiseed.com/hanbai/)
+- [畑懐](http://ameblo.jp/hafuu-kougousei)
 - [のうけん☆ONLINE SHOP☆](http://nouken-seed.shop-pro.jp/)<br>
 米麦の販売。在来種・固定種の表示はないので自分で調べる必要あり
 - [たねの森](http://www.tanenomori.org/)<br>
 イタリア野菜が豊富。無農薬・無化学肥料の種の店
 - [公益財団法人自然農法国際研究開発センター](http://www.infrc.or.jp/seed/seed_02.html)<br>
 無肥料無農薬栽培の種
-- [畑懐](http://ameblo.jp/hafuu-kougousei)<br>
-浜松市の種苗業。
 - [つる新種苗店](http://www.mcci.or.jp/www/tsurusin/index.htm)
 - [松下種苗店](http://www.matsushitaseed.jp/)<br>
 加賀野菜の種子など
+- [農業生物資源ジーンバンクホームページ](https://www.gene.affrc.go.jp/index_j.php)
 
-<!-- - [ナチュラルシードネットワーク](http://www.natural-seed.net/hanbai.html) -->
 
 
 ## 手作業の農具が買えるところ
