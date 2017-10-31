@@ -14,5 +14,58 @@ layout: default
  div.img-box{margin-top:1em;background-color: #f3f3f3;border:1px solid #ddd;border-radius:3px;max-width:600px;padding-left:1em;padding-right:1em;}
 </style>
 
+<h1 class="post">{{ page.title }}</h1>
+{% capture tagurl %}{{ page.tag | tag_url }}{% endcapture %}
+<p class="meta">{{ page.date | date: "%Y年%m月%d日" }} カテゴリ:<span class="tag"><a href='{%if tagurl == "" %}{{site.url}}/tags/{{page.tag}}{% else %}{{site.url}}/{{tagurl}}{% endif %}'>{{ page.tag }}</a></span></p>
+
+<div class="post">
 {{ content }}
+</div>
+
+<!-- facebook ここから -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-like" data-href="{{site.url}}{{page.url}}" data-width="50" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<!-- facebook ここまで -->
+
+<!-- twitter ここから -->
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="kobapan" data-lang="ja" data-dnt="true">ツイート</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<!-- twitter ここまで -->
+
+<!-- page view ここから -->
+<div id="pageview"><img src="http://kobapan.com/c/?l={{page.url}}&u=1">views</div>
+<!-- page view ここまで -->
+
+<br>
+<br>
+
+<a href="{{site.url}}/blog">畑だより</a>
+<div class="paginat-links">
+  {% if page.previous %}<a href="{{site.url}}{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>{% else %}<span> </span>{% endif %}{% if page.next %}<a href="{{site.url}}{{ page.next.url }}/">{{ page.next.title }} &raquo;</a>{% else %}<span> </span>{% endif %}
+</div>
+
+<br>
+
+<a href="{{site.url}}/tags/{{ page.tag }}">「{{ page.tag }}」のお便り</a>
+<div class="paginat-links">
+  {% if page.tag_previous %}<a href="{{site.url}}{{ page.tag_previous.url }}">&laquo; {{ page.tag_previous.title }}</a>{% else %}<span> </span>{% endif %}{% if page.tag_next %}<a href="{{site.url}}{{ page.tag_next.url }}">{{ page.tag_next.title }} &raquo;</a>{% else %}<span> </span>{% endif %}
+</div>
+
+<br>
+<!-- intensedebate ここから -->
+<script>
+var idcomments_acct = '75ebb44ab899892ac78b6ebdf0063d4d';
+var idcomments_post_id;
+var idcomments_post_url = "{{site.url}}{{page.url}}";
+</script>
+<span id="IDCommentsPostTitle" style="display:none"></span>
+<script type='text/javascript' src='http://www.intensedebate.com/js/genericCommentWrapperV2.js'></script> 
+<!-- intensedebate ここまで -->
 
