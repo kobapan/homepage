@@ -18,7 +18,7 @@ layout: default
 {% capture tagurl %}{{ page.tag | tag_url }}{% endcapture %}
 <p class="meta">{{ page.date | date: "%Y年%m月%d日" }} カテゴリ:<span class="tag"><a href='{%if tagurl == "" %}{{site.url}}/tags/{{page.tag}}{% else %}{{site.url}}/{{tagurl}}{% endif %}'>{{ page.tag }}</a></span></p>
 
-<div class="post">
+<div>
 {{ content }}
 </div>
 
