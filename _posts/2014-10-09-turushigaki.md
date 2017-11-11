@@ -70,7 +70,7 @@ title: 吊るし柿（干し柿）の作り方
 
 
 ##関連記事
-- [闇に揺らめく吊るし柿 | 自然農ガットポンポコ](http://kobapan.com/blog/2017/11/01/kaki.html)
+- [闇に揺らめく吊るし柿](http://kobapan.com/blog/2017/11/01/kaki.html)
 - [念願の下屋を建てた](http://kobapan.com/blog/2015/04/20/geya.html)
 - [下屋で干し竹の子](http://kobapan.com/blog/2015/04/29/hoshitakenoko.html)
 - [下屋で干しもん](http://kobapan.com/blog/2015/06/23/hoshimon.html)
