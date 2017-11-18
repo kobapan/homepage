@@ -23,6 +23,9 @@ blockquote {
     padding-left: 1em;
     padding-right: 1em;
 }
+div.img-box{margin-top:1em;background-color: #f3f3f3;border:1px solid #ddd;border-radius:3px;max-width:600px;padding-left:1em;padding-right:1em;}
+div.img-box img {max-height:500px;max-width:600px;vertical-align:top;}
+
 div#contents article li {
     margin-bottom:1em;
 }
