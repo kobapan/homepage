@@ -41,7 +41,10 @@ tag: 自然農
 ## 田畑の様子
 
 　
-![](https://farm8.staticflickr.com/7552/15586039549_a32bdbf0be.jpg)
+![](https://c2.staticflickr.com/6/5553/30874430792_930e39d289.jpg)
+
+　
+![](https://c1.staticflickr.com/7/6209/6123726736_bfb880bb87.jpg)
 
 　
 ![](https://farm7.staticflickr.com/6118/6239215123_7bec91a2a2.jpg)
