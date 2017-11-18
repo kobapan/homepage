@@ -23,13 +23,13 @@ blockquote {
     padding-left: 1em;
     padding-right: 1em;
 }
-article > div.post > div.img-box {
+div#contents > article > div.post > div.img-box {
     margin-top:1em;background-color: #f3f3f3;border:1px solid #ddd;border-radius:3px;max-width:600px;padding-left:1em;padding-right:1em;
 }
-article > div.post > div.img-box > p {
+div#contents > article > div.post > div.img-box > p {
     text-indent: 0;
 }
-article > div.post > div.img-box > p > img {
+div#contents > article > div.post > div.img-box > p > img {
     max-height:500px;max-width:600px;vertical-align:top;
 }
 div#contents article li {
