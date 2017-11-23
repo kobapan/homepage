@@ -61,7 +61,7 @@ h2 {
 }
 h2:before {
   font-family: FontAwesome;
-  content: "\f00c";
+  content: "\f0a4";
   padding-right : 5px;/*文字との隙間*/
   color: #f89174;/*アイコンの色*/
 }
