@@ -45,11 +45,6 @@ h1,h2,h3,h4,h5 {
     font-style:italic;
 }
 h1 {
-    padding: 1em;
-    border: 3px solid #a6d3c8;
-    border-radius: 3em .7em 2em .7em/.7em 2em .7em 3em;
-}
-h1.page {
     border:none;
     color:#fff;
     font-size: 52px;
@@ -58,23 +53,9 @@ h1.page {
     border-radius: 3em 0.7em 2em / 0.7em 2em 0.7em 3em;
 }
 h2 {
-    margin: 1.5em 0 0;
-    /* border-bottom: 1px dotted #999999; */
-    position: relative;
-    padding: .5em .75em;
-    background-color: #f0f0f0;
-    border-radius: 6px;
-    box-shadow: 2px 2px 4px rgba(0, 0, 0, .1) inset;
-}
-h2::after {
-  position: absolute;
-  top: 100%;
-  left: 30px;
-  content: '';
-  width: 0;
-  height: 0;
-  border: 10px solid transparent;
-  border-top: 15px solid #f0f0f0;
+    padding: 1em;
+    border: 3px solid #a6d3c8;
+    border-radius: 3em .7em 2em .7em/.7em 2em .7em 3em;
 }
 h3 {
     margin: 2em 0 0 1em;
