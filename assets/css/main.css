@@ -155,6 +155,7 @@ div#contents aside {
     position: fixed;
     width: 220px;
     font-size:84%;
+    margin-top:-2em;
 }
 div#contents article {
     float: right;
