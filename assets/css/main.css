@@ -46,7 +46,7 @@ h1,h2,h3,h4,h5 {
 }
 h1 {
   position: relative;
-  padding: 0 .4em .1em;
+  padding: 0 .4em;
   height: 42px;
 }
 h1::after {
@@ -67,7 +67,6 @@ h1.page {
     background-color: #a6d3c8;
     border-radius: 3em 0.7em 2em / 0.7em 2em 0.7em 3em;
 }
-
 h1.page::after {
     height:0;
 }
