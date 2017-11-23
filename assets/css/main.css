@@ -100,7 +100,7 @@ iframe.twitter-share-button {
 /* header 固定ヘッダ */
 header {
     background-color: white;
-    height: 60px;
+    height: 40px;
     margin: 0 auto;
     padding: 0 20px;
     top: 0;
@@ -144,7 +144,7 @@ div#contents a[id]:not([href]) {
 /* 基本レイアウト */
 div#contents {
     margin: 0 auto;
-    padding: 20px 20px 5px;
+    padding: 0 20px 5px;
     text-align: left;
     width: 880px;
 }
