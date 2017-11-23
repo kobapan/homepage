@@ -46,20 +46,17 @@ h1,h2,h3,h4,h5 {
 }
 h1 {
   position: relative;
-  padding: .5em .75em;
-  background: #f4f4f4;
-  border-top: 1px dashed #ccc;
-  border-bottom: 1px dashed #ccc;
-  box-shadow: 0 7px 10px -5px rgba(0, 0, 0, .1) inset;
+  padding: 0 .4em .1em;
 }
 h1::after {
   position: absolute;
-  bottom: -9px;
-  right: 10%;
-  content: '\002702';
-  color: #aaa;
-  font-size: 18px;
-  line-height: 1;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+  content: '';
+  width: 100%;
+  height: 10px;
+  background-color: #b6f0fc;
 }
 /*
 h1 {
