@@ -45,6 +45,24 @@ h1,h2,h3,h4,h5 {
     font-style:italic;
 }
 h1 {
+  position: relative;
+  padding: .5em .75em;
+  background: #f4f4f4;
+  border-top: 1px dashed #ccc;
+  border-bottom: 1px dashed #ccc;
+  box-shadow: 0 7px 10px -5px rgba(0, 0, 0, .1) inset;
+}
+h1::after {
+  position: absolute;
+  bottom: -9px;
+  right: 10%;
+  content: '\002702';
+  color: #aaa;
+  font-size: 18px;
+  line-height: 1;
+}
+/*
+h1 {
     border-left: 15px solid #a6d3c8;
     color:#96514d;
     font-size: 26px;
@@ -54,6 +72,7 @@ h1 {
     margin: 0;
     padding-left: 0.5em;
 }
+*/
 h1.page {
     border:none;
     color:#fff;
