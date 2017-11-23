@@ -67,6 +67,7 @@ h2 {
     /* border-bottom: 1px dotted #999999; */
     background-color: #f0f0f0;
     border-radius: 6px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, .1) inset;
 }
 h2::after {
   position: absolute;
