@@ -14,9 +14,9 @@ layout: default
  div.img-box{margin-top:1em;background-color: #f3f3f3;border:1px solid #ddd;border-radius:3px;max-width:600px;padding-left:1em;padding-right:1em;}
 </style>
 
-<h1 class="post">{{ page.title }}</h1>
 {% capture tagurl %}{{ page.tag | tag_url }}{% endcapture %}
 <p class="meta">{{ page.date | date: "%Y年%m月%d日" }} カテゴリ:<span class="tag"><a href='{%if tagurl == "" %}{{site.url}}/tags/{{page.tag}}{% else %}{{site.url}}/{{tagurl}}{% endif %}'>{{ page.tag }}</a></span></p>
+<h1 class="post">{{ page.title }}</h1>
 <div>
 {{ content }}
 </div>
