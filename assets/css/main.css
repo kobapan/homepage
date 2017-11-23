@@ -272,7 +272,7 @@ article>ul.archives>li>span.date {
 article>p.meta {
     float:right;
     margin-right: 1em;
-    margin-top: -65px;
+    margin-top: -128px;
     z-index:9999;
 }
 article>p.meta span.tag a {
