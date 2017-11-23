@@ -47,6 +47,7 @@ h1,h2,h3,h4,h5 {
 h1 {
   position: relative;
   padding: 0 .4em .1em;
+  height: 42px;
 }
 h1::after {
   position: absolute;
