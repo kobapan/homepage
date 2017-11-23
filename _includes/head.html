@@ -55,24 +55,24 @@ $(document).ready( function () {
     }
 
     // 本日のガットポンポコ
-    if ($('#todayimage')[0]) {
-        $.getJSON("http://api.flickr.com/services/feeds/photoset.gne?jsoncallback=?",
-                  {
-                      nsid: "29905208@N05",
-                      set: "72157644167436634",
-                      format: "json"
-                  },
-                  function(data) {
-                      var arr = [];
-                      $.each(data.items, function(i,item){
-                          arr[i] = item.media.m;
-                      });
-                      arr.sort(function() {
-                          return Math.random() - Math.random();
-                      });
-                      $("<img/>").attr({src: arr[0], width: "182px"}).appendTo("#todayimage");
-                  });
-    }
+   /* if ($('#todayimage')[0]) {
+   $.getJSON("http://api.flickr.com/services/feeds/photoset.gne?jsoncallback=?",
+   {
+   nsid: "29905208@N05",
+   set: "72157644167436634",
+   format: "json"
+   },
+   function(data) {
+   var arr = [];
+   $.each(data.items, function(i,item){
+   arr[i] = item.media.m;
+   });
+   arr.sort(function() {
+   return Math.random() - Math.random();
+   });
+   $("<img/>").attr({src: arr[0], width: "182px"}).appendTo("#todayimage");
+   });
+   } */
 });
 </script>
     
