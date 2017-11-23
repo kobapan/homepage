@@ -63,15 +63,12 @@ h2:before {
   font-family: FontAwesome;
   content: "\f0a7";
   padding-right : .7em;/*文字との隙間*/
-  color: #f89174;/*アイコンの色*/
+  color: #a6d3c8;/*アイコンの色*/
 }
 h3 {
     margin: 2em 0 0 1em;
     padding-left: 1.5em;
     border-left: 1px solid #999999;
-}
-div.post h2 {
-    padding-left: 14px;
 }
 table {
     background-color: #FFFFFF;
