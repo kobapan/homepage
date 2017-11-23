@@ -59,18 +59,6 @@ h1::after {
   height: 10px;
   background-color: #b6f0fc;
 }
-/*
-h1 {
-    border-left: 15px solid #a6d3c8;
-    color:#96514d;
-    font-size: 26px;
-    height: 42px;
-    letter-spacing: 0.02em;
-    line-height: 1.5em;
-    margin: 0;
-    padding-left: 0.5em;
-}
-*/
 h1.page {
     border:none;
     color:#fff;
@@ -78,6 +66,10 @@ h1.page {
     height: 84px;
     background-color: #a6d3c8;
     border-radius: 3em 0.7em 2em / 0.7em 2em 0.7em 3em;
+}
+
+h1.page::after {
+    height:0;
 }
 h2 {
     margin: 1.5em 0 0;
