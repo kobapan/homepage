@@ -45,8 +45,10 @@ h1,h2,h3,h4,h5 {
     font-style:italic;
 }
 h1 {
+    padding: 1em;
     border:none;
     color:#fff;
+    clear:both;
     /* font-size: 52px; */
     /* height: 84px; */
     background-color: #a6d3c8;
