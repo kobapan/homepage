@@ -59,7 +59,8 @@ h1.page {
     color:#fff;
     font-size: 52px;
     height: 84px;
-    background-color:#96514d;
+    background-color: #a6d3c8;
+    border-radius: 3em 0.7em 2em / 0.7em 2em 0.7em 3em;
 }
 h2 {
     margin: 1.5em 0 0;
@@ -201,7 +202,9 @@ article>ul.archives {
     margin: 0;
 }
 aside > div.related-posts-area {
-    background: url("/assets/img/f-top.png") no-repeat scroll 0 0 / 220px auto transparent;
+    /* background: url("/assets/img/f-top.png") no-repeat scroll 0 0 / 220px auto transparent; */
+    border: 3px solid #ccc;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
     padding-top:10px;
     padding-right:20px;
 }
@@ -211,10 +214,10 @@ aside > div.related-posts-area > ul.related-posts {
     padding-bottom: 16px;
     padding-left: 10px;
     list-style: square inside;
-    background: url("/assets/img/f-bottom.png") no-repeat scroll 0.5px bottom / 220px auto transparent;
+    /* background: url("/assets/img/f-bottom.png") no-repeat scroll 0.5px bottom / 220px auto transparent; */
 }
 aside > div.related-posts-area > ul.related-posts > li {
-    background: url("/assets/img/f-side.png") no-repeat scroll 0 100% / 220px 40px transparent;
+    /* background: url("/assets/img/f-side.png") no-repeat scroll 0 100% / 220px 40px transparent; */
     line-height: 1.3em;
     margin-left: -10px;
     padding-left: 10px;
