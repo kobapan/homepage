@@ -57,7 +57,7 @@ h1::after {
   content: '';
   width: 100%;
   height: 10px;
-  background-color: #b6f0fc;
+  background-color: #a6d3c8;
 }
 h1.page {
     border:none;
