@@ -63,7 +63,7 @@ h2:before {
   font-family: FontAwesome;
   content: "\f00c";
   padding-right : .7em;/*文字との隙間*/
-  color: #a6d3c8;/*アイコンの色*/
+  color: #f89174;/*アイコンの色*/
 }
 h3 {
     margin: 2em 0 0 1em;
