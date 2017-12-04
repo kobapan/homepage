@@ -44,11 +44,11 @@ title: light straw clay
 <h2>窓などの開口部</h2>
 
 <div class="img-box">
-  <p><img src="https://c1.staticflickr.com/5/4548/38794196662_55730fd104.jpg"></p>
   <p>larsen trusses を使う例が多い。</p>
+  <p><img src="https://c1.staticflickr.com/5/4548/38794196662_55730fd104.jpg"></p>
 </div>
 <div class="img-box">
-  <p><img src="https://c1.staticflickr.com/5/4557/27048879119_9672e0aab2.jpg"></p>
   <p>ツーバイフォー工法</p>
+  <p><img src="https://c1.staticflickr.com/5/4557/27048879119_9672e0aab2.jpg"></p>
 </div>
 
