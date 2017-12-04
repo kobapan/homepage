@@ -44,7 +44,6 @@ title: light straw clay
   <p>地面からは最低20cm離れていること。</p>
   <p>壁の厚みは、基礎からはみ出してもいいが、5cmまで。</p>
   <p>木造部とlight straw clayは直接触れていてよい。</p>
-  <p>垂直支柱は、2.5mごとに横物で接続する。</p>
   <p>ATAC</p>
 </div>
 
