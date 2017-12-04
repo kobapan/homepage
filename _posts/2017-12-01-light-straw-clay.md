@@ -40,7 +40,6 @@ title: light straw clay
 </div>
 
 <div class="quote">
-  <P><img src="https://farm5.staticflickr.com/4542/38795489332_286af4eab1.jpg"></p>
   <p>壁の厚さは30cmまで。</p>
   <p>地面からは最低20cm離れていること。</p>
   <p>壁の厚みは、基礎からはみ出してもいいが、5cmまで。</p>
@@ -49,6 +48,7 @@ title: light straw clay
 </div>
 
 <div class="quote">
+  <P><img src="https://farm5.staticflickr.com/4542/38795489332_286af4eab1.jpg"></p>
   <p>壁を乾燥させる間に、藁の中から芽生えがあることもある。芽が枯れたら、壁に漆喰や板壁をつける準備ができた頃合い。</p>
   <p>石灰や粘土の漆喰で表面を仕上げるのが一般的。下見板を張るのもいい。</p>
   <p>Endeavour</p>
