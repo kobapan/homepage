@@ -40,6 +40,7 @@ title: light straw clay
 </div>
 
 <div class="quote">
+  <P><img src="https://farm5.staticflickr.com/4542/38795489332_286af4eab1.jpg"></p>
   <p>壁の厚さは30cmまで。</p>
   <p>地面からは最低20cm離れていること。</p>
   <p>壁の厚みは、基礎からはみ出してもいいが、5cmまで。</p>
