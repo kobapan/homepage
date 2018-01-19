@@ -27,13 +27,13 @@ tag: 自然農
     <b>￥220</b> (税込)
   </td>
   <td>
-    <!-- <form action="{{ site.shopurl }}" method="post" id="017">
+    <form action="{{ site.shopurl }}" method="post" id="017">
     <input type="hidden" name="code" value="017" />
     <input type="hidden" name="back" value="{{ site.url }}/hanbai/kodaimai.html#017" />
     数量<input type="text" name="num" value="" size="3" /><br>
     <input type="submit" value="かごに入れる" />
-    </form> -->
-  <span style="color:red">売り切れ</span>
+    </form>
+  <!-- <span style="color:red">売り切れ</span> -->
   </td></tr></tbody></table>
 
 <table class="order-box"><tbody><tr>
@@ -42,13 +42,13 @@ tag: 自然農
     <b>￥1,000</b> (税込)
   </td>
   <td>
-    <!-- <form action="{{ site.shopurl }}" method="post" id="018">
+    <form action="{{ site.shopurl }}" method="post" id="018">
     <input type="hidden" name="code" value="018" />
     <input type="hidden" name="back" value="{{ site.url }}/hanbai/kodaimai.html#018" />
     数量<input type="text" name="num" value="" size="3" /><br>
     <input type="submit" value="かごに入れる" />
-    </form> -->
-  <span style="color:red">売り切れ</span>
+    </form>
+  <!-- <span style="color:red">売り切れ</span> -->
   </td></tr></tbody></table>
 
 <table class="order-box"><tbody><tr>
@@ -57,13 +57,13 @@ tag: 自然農
     <b>￥1,800</b> (税込)
   </td>
   <td>
-    <!-- <form action="{{ site.shopurl }}" method="post" id="019">
+    <form action="{{ site.shopurl }}" method="post" id="019">
     <input type="hidden" name="code" value="019" />
     <input type="hidden" name="back" value="{{ site.url }}/hanbai/kodaimai.html#019" />
     数量<input type="text" name="num" value="" size="3" /><br>
     <input type="submit" value="かごに入れる" />
-    </form> -->
-    <span style="color:red">売り切れ</span>
+    </form>
+    <!-- <span style="color:red">売り切れ</span> -->
   </td></tr></tbody></table>
 
 　
