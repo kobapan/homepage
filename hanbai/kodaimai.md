@@ -3,7 +3,7 @@ layout: hanbai
 title: ４種類の古代米 | お買い物コーナー
 tag: 自然農
 ---
-# ４種類の古代米（黒、赤、香、カンタン）
+# ４種類の古代米（黒うるち、赤もち、緑もち、黒もち）
 
 ご飯を食べるのが楽しくなる。
 
@@ -23,7 +23,7 @@ tag: 自然農
 
 <table class="order-box"><tbody><tr>
   <td><img src="https://c2.staticflickr.com/8/7745/17575003949_b2268a6cca_s.jpg"/></td>
-  <td>４種類の古代米（黒、赤、香、カンタン） 100g<br>
+  <td>４種類の古代米（黒うるち、赤もち、緑もち、黒もち） 100g<br>
     <b>￥220</b> (税込)
   </td>
   <td>
@@ -38,7 +38,7 @@ tag: 自然農
 
 <table class="order-box"><tbody><tr>
   <td><img src="https://c2.staticflickr.com/8/7745/17575003949_b2268a6cca_s.jpg"/></td>
-  <td>４種類の古代米（黒、赤、香、カンタン） 500g<br>
+  <td>４種類の古代米（黒うるち、赤もち、緑もち、黒もち） 500g<br>
     <b>￥1,000</b> (税込)
   </td>
   <td>
@@ -53,7 +53,7 @@ tag: 自然農
 
 <table class="order-box"><tbody><tr>
   <td><img src="https://c2.staticflickr.com/8/7745/17575003949_b2268a6cca_s.jpg"/></td>
-  <td>４種類の古代米（黒、赤、香、カンタン） 1kg<br>
+  <td>４種類の古代米（黒うるち、赤もち、緑もち、黒もち） 1kg<br>
     <b>￥1,800</b> (税込)
   </td>
   <td>
