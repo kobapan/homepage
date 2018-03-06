@@ -56,12 +56,7 @@ title: light straw clay
   <p>Cob Builders Handbook</p>
 </div>
 <div class="quote">
-  <p>地面から粘土を取って使うなら、粘土が25-50%含まれているものを使うこと。藁はどんな作物でも可。3-15cmの長さに切ったものが理想的。</p>
-  <p><img src="https://c1.staticflickr.com/5/4779/40644435751_fed8de3f99.jpg"></p>
-  <p>いろんな混ぜ方があるけど、私たちのワークショップでは、手で混ぜるのが一般的。</p>
-  <p>Endeavour</p>
-</div>
-<div class="quote">
+ <p>clay slip の作り方</p>
  <p>適切な粘土の土壌を見つけ、水を加え、塗料の様な粘度になるように混ぜます。</p>
  <ul>
      <li>粘土を予め浸水すると、混合するが容易になる。</li>
@@ -71,6 +66,13 @@ title: light straw clay
   <p><img src="https://c1.staticflickr.com/5/4620/39752032775_d77d7fb63c.jpg"></p>
   <p><a href="http://commonearth.builders/light-straw-clay-workshop-2/" target="_blank">Common Earth</a></p>
 </div>
+<div class="quote">
+  <p>地面から粘土を取って使うなら、粘土が25-50%含まれているものを使うこと。藁はどんな作物でも可。3-15cmの長さに切ったものが理想的。</p>
+  <p><img src="https://c1.staticflickr.com/5/4779/40644435751_fed8de3f99.jpg"></p>
+  <p>いろんな混ぜ方があるけど、私たちのワークショップでは、手で混ぜるのが一般的。</p>
+  <p>Endeavour</p>
+</div>
+
 
 <h2>窓など開口部の作り方</h2>
 <div class="img-box">
