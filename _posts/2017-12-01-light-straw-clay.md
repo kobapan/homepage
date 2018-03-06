@@ -62,7 +62,7 @@ title: light straw clay
   <p>Endeavour</p>
 </div>
 <div class="quote">
- <p>clay slip を作るのは簡単です。 適切な粘土の土壌を見つけ、水を加え、塗料の様なの粘度に達するまで混合する。</p>   
+ <p>clay slip を作るのは簡単です。 適切な粘土の土壌を見つけ、水を加え、塗料の様な粘度になるように混ぜます。</p>   
  <ul>
      <li>粘土を予め浸水すると、混合するが容易になる。</li>
      <li>粘土を混合の前後にスクリーニングすると、 clay slip と your slip-straw を混ぜやすくなります。 （1/4インチのスクリーンで十分です）</li>
