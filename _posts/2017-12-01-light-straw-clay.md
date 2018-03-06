@@ -61,7 +61,17 @@ title: light straw clay
   <p>いろんな混ぜ方があるけど、私たちのワークショップでは、手で混ぜるのが一般的。</p>
   <p>Endeavour</p>
 </div>
-
+<div class="quote">
+ <p>clay slip を作るのは簡単です。 適切な粘土の土壌を見つけ、水を加え、塗料の様なの粘度に達するまで混合する。</p>   
+ <ul>
+     <li>粘土を予め浸水すると、混合するが容易になる。</li>
+     <li>粘土を混合の前後にスクリーニングすると、 clay slip と your slip-straw を混ぜやすくなります。 （1/4インチのスクリーンで十分です）</li>
+     <li>より少ない量をたくさん作ることでより均一な一貫性が保証されます。</li>
+  </ul>
+  <p><img src="https://c1.staticflickr.com/5/4620/39752032775_d77d7fb63c.jpg"></p>
+  <p>runny clay slip</p>
+  <p><a href="http://commonearth.builders/light-straw-clay-workshop-2/" target="_blank">Common Earth</a></p>
+</div>
 
 <h2>窓など開口部の作り方</h2>
 <div class="img-box">
