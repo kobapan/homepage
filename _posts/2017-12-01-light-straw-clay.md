@@ -63,6 +63,7 @@ title: light straw clay
      <li>粘土を混合の前後にスクリーニングすると、 clay slip と straw を混ぜやすくなります。1/4inch（6.35mm）のスクリーンで十分です。</li>
      <li>より少ない量をたくさん作ることでより均一な一貫性が保証されます。</li>
   </ul>
+  <p><img src="https://farm5.staticflickr.com/4758/38837994600_8f11aaabeb.jpg"></p>
   <p><img src="https://c1.staticflickr.com/5/4620/39752032775_d77d7fb63c.jpg"></p>
   <p><a href="http://commonearth.builders/light-straw-clay-workshop-2/" target="_blank">Common Earth</a></p>
 </div>
