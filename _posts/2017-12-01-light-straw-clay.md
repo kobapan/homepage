@@ -15,7 +15,7 @@ title: light straw clay
 
 <h2>light straw clay wall の作り方</h2>
 
-<div class="img-box">
+<div class="quote">
   <p><img src="https://c1.staticflickr.com/5/4464/38008868156_d7230095b3.jpg"></p>
   <p>奥には壁の高さの仮板、手前には高さ60cmの仮板。その間にlight straw clayを保持する垂直支柱が見える。壁内の空間を隙間無く埋めるために、一度に60cmの高さで圧縮する。手前の仮板のてっぺんまでlight straw clayで埋めたら、手前の仮板を外して60cm上げて固定し、また埋める。壁の高さいっぱいまで埋まったら、奥の仮板も取り払う。</p>
   <p>藁には空洞があるので、藁で作るときは撞き固める。藁の代わりに木片や鋸屑を使うときは、空隙が出来るように、緩く詰める。</p>
