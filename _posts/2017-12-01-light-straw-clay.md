@@ -30,14 +30,6 @@ title: light straw clay
   <p><a href="http://www.theyearofmud.com/2012/03/01/light-clay-straw-house/" target="_blank">Building a Light Clay Straw (Straw-Clay) House | The Year of Mud: Natural Building Workshops</a></p>
 </div>
 
-
-<div class="img-box">
-  <p><img src="https://c1.staticflickr.com/5/4490/24209700758_86ecdb9c61.jpg"></p>
-  <p>型枠の中で、粘土をまぶした藁を踏み固める。</p>
-  <p>壁が乾燥した後で、表面に粘土slip（後述）をまいてから荒塗を塗る。</p>
-  <p><a href="http://holzhueter.blogspot.jp/2015/05/light-straw-clay-construction-irwin-and.html" target="_blank">百姓　Hyakusho: 軽量藁土充填工法　Light Straw Clay Construction: Irwin A. and Robert D. Goodman Greenhouse at Spring Harbor</a></p>
-</div>
-
 <div class="quote">
   <p>壁の厚さは30cmまで。</p>
   <p>地面からは最低20cm離れていること。</p>
