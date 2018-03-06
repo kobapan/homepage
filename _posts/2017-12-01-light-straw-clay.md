@@ -49,9 +49,10 @@ title: light straw clay
 
 <div class="quote">
   <P><img src="https://farm5.staticflickr.com/4542/38795489332_286af4eab1.jpg"></p>
+  <p>![](https://c1.staticflickr.com/5/4790/26772941628_dcea4b5fe6.jpg)</p>
   <p>壁を乾燥させる間に、藁の中から芽生えがあることもある。芽が枯れたら、壁に漆喰や板壁をつける準備ができた頃合い。</p>
   <p>石灰や粘土の漆喰で表面を仕上げるのが一般的。下見板を張るのもいい。</p>
-  <p>Endeavour</p>
+  <p>[Endeavour](http://endeavourcentre.org/2016/04/light-clay-straw-insulation/)</p>
 </div>
 
 
@@ -63,6 +64,8 @@ title: light straw clay
 </div>
 <div class="quote">
   <p>地面から粘土を取って使うなら、粘土が25-50%含まれているものを使うこと。藁はどんな作物でも可。3-15cmの長さに切ったものが理想的。</p>
+  <p>![](https://c1.staticflickr.com/5/4779/40644435751_fed8de3f99.jpg)</p>
+  <p>いろんな混ぜ方があるけど、私たちのワークショップでは、手で混ぜるのが一般的。</p>
   <p>Endeavour</p>
 </div>
 
