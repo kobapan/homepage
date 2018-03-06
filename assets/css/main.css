@@ -28,7 +28,8 @@ div.quote p{text-indent: 1em;}
 div#contents > article > div.post > div.img-box {
     margin-top:1em;background-color: #f3f3f3;border:1px solid #ddd;border-radius:3px;max-width:600px;padding-left:1em;padding-right:1em;
 }
-div#contents > article > div.post > div.img-box > p {
+div#contents > article > div.post > div.img-box > p,
+div#contents > article > div.post > div.quote > p > img {
     text-indent: 0;
 }
 div#contents > article > div.post > div.img-box > p > img {
