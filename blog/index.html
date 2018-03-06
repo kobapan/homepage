@@ -36,7 +36,7 @@ title: 畑だより
 
 <!-- This loops through the paginated posts -->
 <div class="archive-posts">
-  <p>!!debug!! {{ paginator.posts | debug}}</p>
+  <p>!!debug!! {{ paginator.posts[0] | debug}}</p>
 {% for post in paginator.posts %}
 <div class="archive-single-post">
 
