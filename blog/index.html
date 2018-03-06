@@ -38,8 +38,7 @@ title: 畑だより
 <div class="archive-posts">
 {% for post in paginator.posts %}
 <div class="archive-single-post">
-
-  <div>{{ post.content | debug}}</div>
+  <div class="img_wrapper"><a href="{{ post.url }}">{{ post.content | thumbnail: '', '600px' }}</a></div>
   <div class="archive-single-post-link">
   <span><a href="{{ post.url }}">{{ post.title }}</a></span>
   <span class="entry-meta">{{ post.date | date: "%Y-%m-%d"}} </span>
