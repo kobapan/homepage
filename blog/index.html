@@ -36,8 +36,7 @@ title: 畑だより
 
 <!-- This loops through the paginated posts -->
 <div class="archive-posts">
-  {% for post in paginator.posts %}
-  {{ posts | debug }}
+{% for post in paginator.posts %}
 <div class="archive-single-post">
   <div class="img_wrapper"><a href="{{ post.url }}">{{ post.content | thumbnail: '', '600px' }}</a></div>
   <div class="archive-single-post-link">
