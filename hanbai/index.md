@@ -22,7 +22,7 @@ tag: 自然農
 
 ## 大納言小豆
 <table><td class="first">
-<a href="./azuki.html"><img src="https://c1.staticflickr.com/5/4576/37606770355_a2bd2eedcd_m.jpg"></a>
+<a href="./azuki.html"><img src="https://c1.staticflickr.com/1/891/41225295252_84618b4d43_m.jpg"></a>
 </td><td>
 大粒の小豆です<br>
 <a href="./azuki.html">詳細ページへ &gt;&gt;</a>
