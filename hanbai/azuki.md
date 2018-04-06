@@ -34,7 +34,7 @@ tag: 自然農
 <table class="order-box"><tbody><tr>
   <td><img src="https://c1.staticflickr.com/5/4576/37606770355_a2bd2eedcd_s.jpg"/></td>
   <td>大納言小豆 1kg<br>
-    <b>￥1,200</b> (税込)
+    <b>￥2,000</b> (税込)
   </td>
   <td>
     <form action="{{ site.shopurl }}" method="post" id="032">
