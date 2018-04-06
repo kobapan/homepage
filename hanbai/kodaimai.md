@@ -102,6 +102,6 @@ tag: 自然農
 <div style="text-align:right;">
   <a href="./">「野菜販売」の一覧へ戻る</a>
 
-<form action="{{ site.shopurl }}" method="post" id="kakunin"><input type="hidden" name="back" value="{{ site.url }}/hanbai/#kakunin" /><input type="submit" value="お買い物かごの中身を確認" /></form>
+<form action="{{ site.shopurl }}" method="post" id="kakunin"><input type="hidden" name="back" value="{{ site.url }}/hanbai/kobaimai.html#kakunin" /><input type="submit" value="お買い物かごの中身を確認" /></form>
 </div>
 
