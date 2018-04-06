@@ -20,14 +20,12 @@ tag: 自然農
 
 <style>table{width:100%}td.first{width:40%}</style>
 
-## 鞍掛豆
+## 大納言小豆
 <table><td class="first">
-<a href="./kurakake.html"><img src="https://c1.staticflickr.com/9/8730/16611810190_fdc7ed297c_m.jpg"></a>
+<a href="./azuki.html"><img src="https://c1.staticflickr.com/5/4576/37606770355_a2bd2eedcd_m.jpg"></a>
 </td><td>
-海苔のような独特な香り<br>
-口に入れた瞬間とうもろこしのような甘い味<br>
-短時間の浸水で調理できる平たい豆、鞍掛豆<br>
-<a href="./kurakake.html">詳細ページへ &gt;&gt;</a>
+大粒の小豆です<br>
+<a href="./azuki.html">詳細ページへ &gt;&gt;</a>
 </td></table>
 
 ## ４種類の古代米
@@ -40,6 +38,16 @@ tag: 自然農
 もちもちとした食感に<br>
 ４種類の古代米
 <a href="./kodaimai.html">詳細ページへ &gt;&gt;</a>
+</td></table>
+
+## 鞍掛豆
+<table><td class="first">
+<a href="./kurakake.html"><img src="https://c1.staticflickr.com/9/8730/16611810190_fdc7ed297c_m.jpg"></a>
+</td><td>
+海苔のような独特な香り<br>
+口に入れた瞬間とうもろこしのような甘い味<br>
+短時間の浸水で調理できる平たい豆、鞍掛豆<br>
+<a href="./kurakake.html">詳細ページへ &gt;&gt;</a>
 </td></table>
 
 
