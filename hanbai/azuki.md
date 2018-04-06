@@ -5,7 +5,7 @@ tag: 自然農
 ---
 # 大納言小豆
 
-大粒の色よい小豆です。
+色よい大粒小豆です。
 
 <img src="https://c1.staticflickr.com/5/4576/37606770355_a2bd2eedcd.jpg" />
 
