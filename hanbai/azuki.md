@@ -23,7 +23,7 @@ tag: 自然農
   </td>
   <td>
     <form action="{{ site.shopurl }}" method="post" id="031">
-    <input type="hidden" name="code" value="032" />
+    <input type="hidden" name="code" value="031" />
     <input type="hidden" name="back" value="{{ site.url }}/hanbai/azuki.html#031" />
     数量<input type="text" name="num" value="" size="3" /><br>
     <input type="submit" value="かごに入れる" />
@@ -33,7 +33,7 @@ tag: 自然農
 
 <table class="order-box"><tbody><tr>
   <td><img src="https://c1.staticflickr.com/5/4576/37606770355_a2bd2eedcd_s.jpg"/></td>
-  <td>大納言小豆 500g<br>
+  <td>大納言小豆 1kg<br>
     <b>￥1,200</b> (税込)
   </td>
   <td>
