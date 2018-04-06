@@ -14,7 +14,11 @@ tag: 自然農
 
 南瓜と炊いて、いとこ煮にしたり
 
-もちろん赤飯も美味しいですよ。
+赤飯に
+
+小豆ごはん
+
+小豆ってほんと綺麗！
 
 <table class="order-box"><tbody><tr>
   <td><img src="https://c1.staticflickr.com/5/4576/37606770355_a2bd2eedcd_s.jpg"/></td>
