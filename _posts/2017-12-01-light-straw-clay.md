@@ -85,3 +85,6 @@ title: light straw clay
   <p>ツーバイフォー工法の模式図。スタッドの説明に。</p>
 </div>
 
+##関連記事
+- [Cob House：身近で手に入る、土、砂、石、藁で作る家](http://kobapan.com/blog/2017/09/30/cob-house.html)
+- [石積みの家を見学](http://kobapan.com/blog/2017/03/13/ishidumi.html)
