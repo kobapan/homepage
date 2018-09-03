@@ -20,7 +20,7 @@ title: 関連情報
 ## 伝統野菜の在来種子や、固定種子が買えるところ
 
 - [野口のタネ](http://noguchiseed.com/hanbai/)
-- [畑懐](http://ameblo.jp/hafuu-kougousei)
+- [畑懐](https://kougousei-hafuu.jimdo.com)
 - [のうけん☆ONLINE SHOP☆](http://nouken-seed.shop-pro.jp/)<br>
 米麦の販売。在来種・固定種の表示はないので自分で調べる必要あり
 - [たねの森](http://www.tanenomori.org/)<br>
