@@ -26,6 +26,7 @@ tag: 自然農
 </td><td>
 小豆ってほんとに綺麗！<br>
 <a href="./azuki.html">詳細ページへ &gt;&gt;</a>
+<span style="color:red">売り切れ</span>
 </td></table>
 
 ## ４種類の古代米
@@ -48,6 +49,7 @@ tag: 自然農
 口に入れた瞬間とうもろこしのような甘い味<br>
 短時間の浸水で調理できる平たい豆、鞍掛豆<br>
 <a href="./kurakake.html">詳細ページへ &gt;&gt;</a>
+<span style="color:red">売り切れ</span>
 </td></table>
 
 
