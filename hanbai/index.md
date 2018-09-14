@@ -37,7 +37,6 @@ tag: 自然農
 香り高く<br>
 旨味のある<br>
 もちもちとした食感に<br>
-４種類の古代米
 <a href="./kodaimai.html">詳細ページへ &gt;&gt;</a>
 </td></table>
 
