@@ -25,7 +25,7 @@ tag: 自然農
 <a href="./azuki.html"><img src="https://c1.staticflickr.com/1/891/41225295252_84618b4d43_m.jpg"></a>
 </td><td>
 小豆ってほんとに綺麗！<br>
-<a href="./azuki.html">詳細ページへ &gt;&gt;</a>
+<a href="./azuki.html">詳細ページへ &gt;&gt;</a><br>
 <span style="color:red">売り切れ</span>
 </td></table>
 
@@ -48,7 +48,7 @@ tag: 自然農
 海苔のような独特な香り<br>
 口に入れた瞬間とうもろこしのような甘い味<br>
 短時間の浸水で調理できる平たい豆、鞍掛豆<br>
-<a href="./kurakake.html">詳細ページへ &gt;&gt;</a>
+<a href="./kurakake.html">詳細ページへ &gt;&gt;</a><br>
 <span style="color:red">売り切れ</span>
 </td></table>
 
