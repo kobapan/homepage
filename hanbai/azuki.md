@@ -26,13 +26,13 @@ tag: 自然農
     <b>￥1,200</b> (税込)
   </td>
   <td>
-    <form action="{{ site.shopurl }}" method="post" id="031">
+    <!-- <form action="{{ site.shopurl }}" method="post" id="031">
     <input type="hidden" name="code" value="031" />
     <input type="hidden" name="back" value="{{ site.url }}/hanbai/azuki.html#031" />
     数量<input type="text" name="num" value="" size="3" /><br>
     <input type="submit" value="かごに入れる" />
-    </form>
-  <!-- <span style="color:red">売り切れ</span> -->
+    </form> -->
+   <span style="color:red">売り切れ</span>
   </td></tr></tbody></table>
 
 <table class="order-box"><tbody><tr>
@@ -41,13 +41,13 @@ tag: 自然農
     <b>￥2,000</b> (税込)
   </td>
   <td>
-    <form action="{{ site.shopurl }}" method="post" id="032">
+    <!-- <form action="{{ site.shopurl }}" method="post" id="032">
     <input type="hidden" name="code" value="032" />
     <input type="hidden" name="back" value="{{ site.url }}/hanbai/azuki.html#032" />
     数量<input type="text" name="num" value="" size="3" /><br>
     <input type="submit" value="かごに入れる" />
-    </form>
-  <!-- <span style="color:red">売り切れ</span> -->
+    </form> -->
+   <span style="color:red">売り切れ</span>
   </td></tr></tbody></table>
 
 
