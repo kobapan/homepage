@@ -34,9 +34,10 @@ tag: 自然農
 <a href="./kodaimai.html"><img src="https://c2.staticflickr.com/8/7745/17575003949_b2268a6cca_m.jpg"></a>
 </td><td>
 いつものお米に加えれば<br>
+色鮮やかな<br>
 香り高く<br>
 旨味のある<br>
-もちもちとした食感に<br>
+もちもちとしたご飯に<br>
 <a href="./kodaimai.html">詳細ページへ &gt;&gt;</a>
 </td></table>
 
