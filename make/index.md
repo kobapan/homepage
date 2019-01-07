@@ -5,7 +5,7 @@ tag: 作る
 ---
 
 食べるもの、住む家や、飲む水、暖める火、暮らしを、自分の手足で作る。そのような作る技を習い熟練していくことはとても愉しい。また山や森や川や海やその中で生きるものたちと繋がる知恵を学び教えあい、作る仲間を愉もうと思う。
-![](https://farm4.staticflickr.com/3722/11879605294_e06626c921.jpg)
+![](https://kobapan.com/f/11879605294_e06626c921.jpg)
 
 20世紀後半、競争と効率化を追い求めた結果、自分で「作る」よりも、お金を稼ぐ仕事で得た現金で「買う」ようになった。私は、作るのが好きだ。手足で触って作って理解して、ワクワクする。
 
@@ -13,7 +13,7 @@ tag: 作る
 
 ## 適正エネルギー
 遠い外国から化石燃料を使って運んだ化石燃料でもって電気や灯油を作り出し、さらにエネルギーを消費して消費地に運ぶという、誠に無駄の多いエネルギー事情にうんざりする。
-<img src="http://farm2.static.flickr.com/1064/5130524590_25de2ec6c1.jpg" alt="5130524590_25de2ec6c1.jpg" />
+<img src="https://kobapan.com/f/5130524590_25de2ec6c1.jpg" alt="5130524590_25de2ec6c1.jpg" />
 
 エネルギーを得るために、自分で出来そうなことはなにかと考えては実験している。自然には利用されていないエネルギーが沢山ある。それらを無駄無く適正に取り出して利用するのはとても面白いと思う。
 
@@ -47,7 +47,7 @@ tag: 作る
 ### 生物浄水
 信州大学教授の中本さんが「生物浄化法」を見直そうという活動をされている。[緩速濾過](http://ja.wikipedia.org/wiki/%E7%B7%A9%E9%80%9F%E6%BF%BE%E9%81%8E) とも言われるこの水浄化方法は、化学薬品や電気を必要としないことが特徴だ。中本さんの<a  href="http://www.amazon.co.jp/gp/product/4806713155/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4806713155&linkCode=as2&tag=kobapan-22">おいしい水のつくり方</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=kobapan-22&l=as2&o=9&a=4806713155" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />では、家庭で実践できそうな装置も紹介されている。
 
-> ![](http://farm8.staticflickr.com/7202/13160126224_d959df1bdb.jpg)
+> ![](https://kobapan.com/f/13160126224_d959df1bdb.jpg)
 > <s>生物浄水（緩速ろ過）概略図</s>
 
 バイオフィルムというのは、桶内でこの生物浄化が行われる仕組みのようだ。
@@ -87,5 +87,5 @@ tag: 作る
 小水力というとこれまた発電がもてはやされる昨今だけど、伝統的には挽き臼だよね。里芋の皮剥きとか、服の洗濯なんかもできる。あーしかし、我が家周辺には、そういう向きの川がない。
 
 ##「{{ page.tag }}」人気のお便り
-<figure class="related-post"><a href="http://kobapan.com/blog/2014/04/28/aku.html"><img src="https://c2.staticflickr.com/6/5114/14064907143_d0d5254946.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/04/28/aku.html">灰で作る洗剤</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2017/03/23/hichirin.html"><img src="https://c1.staticflickr.com/3/2945/33332534200_16837d65d4.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2017/03/23/hichirin.html">七輪で薪を焚く</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2015/10/22/rocket.html"><img src="https://c1.staticflickr.com/1/679/21723145373_a6946fb042.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2015/10/22/rocket.html">ロケットストーブには珪藻土レンガ</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2014/02/07/kamadomeshi.html"><img src="http://farm8.staticflickr.com/7366/12358201524_a7616faa59.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/02/07/kamadomeshi.html">竈(かまど)飯の炊き方</a></figcaption></figure>
+<figure class="related-post"><a href="http://kobapan.com/blog/2014/04/28/aku.html"><img src="https://kobapan.com/f/14064907143_d0d5254946.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/04/28/aku.html">灰で作る洗剤</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2017/03/23/hichirin.html"><img src="https://kobapan.com/f/33332534200_16837d65d4.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2017/03/23/hichirin.html">七輪で薪を焚く</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2015/10/22/rocket.html"><img src="https://kobapan.com/f/21723145373_a6946fb042.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2015/10/22/rocket.html">ロケットストーブには珪藻土レンガ</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2014/02/07/kamadomeshi.html"><img src="https://kobapan.com/f/12358201524_a7616faa59.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/02/07/kamadomeshi.html">竈(かまど)飯の炊き方</a></figcaption></figure>
 <p style="clear:both;"><a href="{{site.url}}/tags/{{ page.tag }}">「{{ page.tag }}」のお便り一覧&raquo;</a></p>
