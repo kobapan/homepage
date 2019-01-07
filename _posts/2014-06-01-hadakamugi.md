@@ -3,7 +3,7 @@ title: スミレ色に揺れる裸麦の穂がとても綺麗
 layout: post
 tag: 自然農
 ---
-![](https://c2.staticflickr.com/4/3775/14103183479_08f771decc.jpg)
+![](https://kobapan.com/f/14103183479_08f771decc.jpg)
 裸麦の結実
 
 > 四国地方に栽培されてきた在来種のモチ性（裸）大麦「弥富モチ」。

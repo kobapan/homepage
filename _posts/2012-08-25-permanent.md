@@ -5,7 +5,7 @@ title: 中日新聞掲載とパーマカルチャー
 ---
 
 
-<a target="_blank" href="http://farm8.staticflickr.com/7262/7879506016_bbce25b696_h.jpg" title=""><img src="http://farm8.staticflickr.com/7262/7879506016_dd29d9398a.jpg" width="500" height="491" alt="中日新聞 2012/08/25"></a>
+<a target="_blank" href="https://kobapan.com/f/7879506016_bbce25b696_h.jpg" title=""><img src="https://kobapan.com/f/7879506016_dd29d9398a.jpg" width="500" height="491" alt="中日新聞 2012/08/25"></a>
 
 
 友達が推薦してくれたとかで、北陸中日新聞の「popress」というコーナーに掲載していただいた。「popress」は2010年から始まった新しい取り組みで、20代の記者が新聞を読まなくなった同世代に向けて、新しい紙面を作っているのだそうだ。今回は、

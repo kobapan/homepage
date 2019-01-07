@@ -4,7 +4,7 @@ layout: post
 tag: 作る
 ---
 ユカの誕生日なのでケーキを焼いた
-![](https://c2.staticflickr.com/6/5555/14850122430_a3667077f2.jpg)
+![](https://kobapan.com/f/14850122430_a3667077f2.jpg)
 　
 
 

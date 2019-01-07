@@ -3,7 +3,7 @@ layout: post
 tag: 食べる森
 title: 猪の捕り方や解体施設についての視察
 ---
-<img src="http://farm8.staticflickr.com/7381/11188241426_0d0d407f69.jpg">
+<img src="https://kobapan.com/f/11188241426_0d0d407f69.jpg">
 狩猟用の皮剥包丁。実物を初めて見た
 
 

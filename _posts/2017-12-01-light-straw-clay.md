@@ -16,7 +16,7 @@ title: light straw clay
 <h2>light straw clay wall の作り方</h2>
 
 <div class="quote">
-  <p><img src="https://c1.staticflickr.com/5/4464/38008868156_d7230095b3.jpg"></p>
+  <p><img src="https://kobapan.com/f/38008868156_d7230095b3.jpg"></p>
   <p>奥には壁の高さの仮板、手前には高さ60cmの仮板。その間にlight straw clayを保持する垂直支柱が見える。壁内の空間を隙間無く埋めるために、一度に60cmの高さで圧縮する。手前の仮板のてっぺんまでlight straw clayで埋めたら、手前の仮板を外して60cm上げて固定し、また埋める。壁の高さいっぱいまで埋まったら、奥の仮板も取り払う。</p>
   <p>藁には空洞があるので、藁で作るときは撞き固める。藁の代わりに木片や鋸屑を使うときは、空隙が出来るように、緩く詰める。</p>
   <p><a href="http://trctimberworks.com/2010/08/16/econest-form-work/#more-988" target="_blank">EcoNest – Form Work | TRC Timberworks</a></p>
@@ -40,8 +40,8 @@ title: light straw clay
 </div>
 
 <div class="quote">
-  <p><img src="https://farm5.staticflickr.com/4542/38795489332_286af4eab1.jpg"></p>
-  <p><img src="https://c1.staticflickr.com/5/4790/26772941628_dcea4b5fe6.jpg"></p>
+  <p><img src="https://kobapan.com/f/38795489332_286af4eab1.jpg"></p>
+  <p><img src="https://kobapan.com/f/26772941628_dcea4b5fe6.jpg"></p>
   <p>壁を乾燥させる間に、藁の中から芽生えがあることもある。芽が枯れたら、壁に漆喰や板壁をつける準備ができた頃合い。</p>
   <p>石灰や粘土の漆喰で表面を仕上げるのが一般的。これはカビや腐敗から壁を守るのに役立つ。</p>
   <p>外装には下見板を張るのもいい。</p>
@@ -63,13 +63,13 @@ title: light straw clay
      <li>混合の前後にスクリーニングすると、藁と混ぜやすくなります。1/4inch（6.35mm）のスクリーンで十分です。</li>
      <li>より少ない量をたくさん作ることでより均一な一貫性が保証されます。</li>
   </ul>
-  <p><img src="https://farm5.staticflickr.com/4758/38837994600_8f11aaabeb.jpg"></p>
-  <p><img src="https://c1.staticflickr.com/5/4620/39752032775_d77d7fb63c.jpg"></p>
+  <p><img src="https://kobapan.com/f/38837994600_8f11aaabeb.jpg"></p>
+  <p><img src="https://kobapan.com/f/39752032775_d77d7fb63c.jpg"></p>
   <p><a href="http://commonearth.builders/light-straw-clay-workshop-2/" target="_blank">Common Earth</a></p>
 </div>
 <div class="quote">
   <p>地面から粘土を取って使うなら、粘土が25-50%含まれているものを使うこと。藁はどんな作物でも可。3-15cmの長さに切ったものが理想的。</p>
-  <p><img src="https://c1.staticflickr.com/5/4779/40644435751_fed8de3f99.jpg"></p>
+  <p><img src="https://kobapan.com/f/40644435751_fed8de3f99.jpg"></p>
   <p>いろんな混ぜ方があるけど、私たちのワークショップでは、手で混ぜるのが一般的。</p>
   <p>Endeavour</p>
 </div>
@@ -77,11 +77,11 @@ title: light straw clay
 
 <h2>窓など開口部の作り方</h2>
 <div class="img-box">
-  <p><img src="https://c1.staticflickr.com/5/4548/38794196662_55730fd104.jpg"></p>
+  <p><img src="https://kobapan.com/f/38794196662_55730fd104.jpg"></p>
   <p>larsen trusses を使う例が多い。ダブル・スタッドというやつ。</p>
 </div>
 <div class="img-box">
-  <p><img src="https://c1.staticflickr.com/5/4557/27048879119_9672e0aab2.jpg"></p>
+  <p><img src="https://kobapan.com/f/27048879119_9672e0aab2.jpg"></p>
   <p>ツーバイフォー工法の模式図。スタッドの説明に。</p>
 </div>
 

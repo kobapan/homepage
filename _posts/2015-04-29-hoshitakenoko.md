@@ -6,10 +6,10 @@ title: 下屋で干し竹の子
 先日完成した下屋で、早速竹の子を干した。
 
 わーい(￣▽￣)甘い香り。
-![](https://c1.staticflickr.com/9/8692/17078331597_86a03df2ea.jpg)
+![](https://kobapan.com/f/17078331597_86a03df2ea.jpg)
 
 竹の子干せた。
-![](https://c2.staticflickr.com/8/7693/17305219202_010d8ef89a.jpg)
+![](https://kobapan.com/f/17305219202_010d8ef89a.jpg)
 
 夜もそのまま下屋に放置して二日。カラカラに干せてしまった。と、取り込まなくていいとは！
 

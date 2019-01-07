@@ -49,8 +49,8 @@ tag: 作る
 ##ロケットストーブのしくみ
 
 わけが分からなくなったので、Erica が描いたロケットマスヒーターの基本構造図を眺める。
-![](https://c1.staticflickr.com/1/576/21983113782_4091ecb579.jpg)
-<img src="https://farm1.staticflickr.com/566/22035132585_15acc4f311.jpg" width="500" height="386" alt="RocketHeater6in20000">
+![](https://kobapan.com/f/21983113782_4091ecb579.jpg)
+<img src="https://kobapan.com/f/22035132585_15acc4f311.jpg" width="500" height="386" alt="RocketHeater6in20000">
 <s>[rocketstoves - www.ErnieAndErica.info](http://www.ernieanderica.info/rocketstoves)</s>
 
 そういうことか。
@@ -77,7 +77,7 @@ Ernie & Erica にヒントが書いてあった。
 ##燃やし方
 
 図を見ていて、もう一つ気になるのは、木を縦に入れて、燃えているは先端のみ、というところ。よくある絵なんだけどね。
-![](https://c1.staticflickr.com/1/663/22060781851_43227d1b43.jpg)
+![](https://kobapan.com/f/22060781851_43227d1b43.jpg)
 
 ロケットストーブの設計者といわれるLarry Winiarski の [Rocket Stove Principles](http://www.bioenergylists.org/stovesdoc/Still/Rocket%20Stove/Principles.html) にその答えが書いてあった。
 

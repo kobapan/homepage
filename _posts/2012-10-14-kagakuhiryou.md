@@ -4,7 +4,7 @@ tag: 自然農
 title: 化学肥料はどこから来るのか
 ---
 　
-![](https://farm6.staticflickr.com/5225/5638710523_779c9a8569.jpg)
+![](https://kobapan.com/f/5638710523_779c9a8569.jpg)
 
 　
 　

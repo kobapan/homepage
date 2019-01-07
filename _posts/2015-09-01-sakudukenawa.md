@@ -4,7 +4,7 @@ layout: post
 tag: 作る
 ---
 雨なので念願の作付け縄を作った。
-![](https://c1.staticflickr.com/1/567/20871270469_5bf2f1be01.jpg)
+![](https://kobapan.com/f/20871270469_5bf2f1be01.jpg)
 
 まっすぐ畝（うね）を作ったり、苗の植え付けをしたりする時に使う道具。
 
@@ -17,34 +17,34 @@ tag: 作る
 ## 作り方
 
 1. まず糸受け部分<br>
-![](https://c1.staticflickr.com/1/704/21058069715_581479585f.jpg)<br>
+![](https://kobapan.com/f/21058069715_581479585f.jpg)<br>
 せっかくだから木の自然な曲がりを利用するぜ。<br><br>
 2. ホゾ組<br>
-![](https://c2.staticflickr.com/6/5617/20437036893_a2d2ffc9a3.jpg)<br>
+![](https://kobapan.com/f/20437036893_a2d2ffc9a3.jpg)<br>
 カーブの内側が下を向くように万力で固定して、ホゾ穴を開ける。
 万力って便利<br>
-![](https://c2.staticflickr.com/6/5732/21058096685_7a7f8cca9a.jpg)<br><br>
+![](https://kobapan.com/f/21058096685_7a7f8cca9a.jpg)<br><br>
 3. 次は軸受け部分のホゾ<br>
-![](https://c2.staticflickr.com/6/5730/21065756731_18f23f8db9.jpg)<br>
+![](https://kobapan.com/f/21065756731_18f23f8db9.jpg)<br>
 ホゾの一辺とホゾ穴の直径は同寸。ホゾを切るノミの作業も万力で固定すると簡単。丸いホゾ穴に四角いホゾを叩き込む。こうすればクサビがいらない。「[ゴッホの椅子](http://gifuforestac.blogspot.jp/search?q=%E3%82%B4%E3%83%83%E3%83%9B%E3%81%AE%E6%A4%85%E5%AD%90)」の作り方。<br><br>
 4. しかしそのままだと丸い穴に入らないので、ホゾの先端を丸く削っておく<br>
-![](https://c1.staticflickr.com/1/699/20435500594_a8919047e7.jpg)<br><br>
+![](https://kobapan.com/f/20435500594_a8919047e7.jpg)<br><br>
 5. 叩き込んだところ<br>
-![](https://c1.staticflickr.com/1/776/21065780321_40a1374345.jpg)<br>
+![](https://kobapan.com/f/21065780321_40a1374345.jpg)<br>
 木槌で叩き込む<br><br>
 6. ホゾ組が4箇所終わったら、軸受けに、心棒を通す穴を開ける<br>
-![](https://c2.staticflickr.com/6/5811/21032204316_063d049dfb.jpg)<br>
+![](https://kobapan.com/f/21032204316_063d049dfb.jpg)<br>
 やっぱり万力って便利。これで糸巻部分の完成。<br><br>
 7. 次は心棒<br>
-![](https://c2.staticflickr.com/6/5830/21058437245_58acc8dcea.jpg)<br>
+![](https://kobapan.com/f/21058437245_58acc8dcea.jpg)<br>
 枝又をストッパーにする。ストッパーは平らにカットしておくと、糸巻の回転が良くなる。削って白く見えるところと、枝又の境目の話。これは説明しずらいので、次の写真。<br><br>
 8. 合体<br>
-![](https://c2.staticflickr.com/6/5832/21058449255_508230d9af.jpg)<br>
+![](https://kobapan.com/f/21058449255_508230d9af.jpg)<br>
 心棒の枝又＝ストッパー部分と、軸受け部分が平面と平面で接している。心棒側が山形に削ってあると、軸受け部分の丸い穴にに心棒が突き刺さっていって、糸巻の回転が止ってしまう。<br><br>
 9. 最後に糸巻が心棒から抜けないように、木のワッシャをはめ、クサビで止める<br>
-![](https://c2.staticflickr.com/6/5800/20870575588_c973da18df.jpg)<br><br>
+![](https://kobapan.com/f/20870575588_c973da18df.jpg)<br><br>
 10. できた。ちょっとゴツいけど。<br>
-![](https://c2.staticflickr.com/6/5827/21048509342_66839b0f9c.jpg)<br>
+![](https://kobapan.com/f/21048509342_66839b0f9c.jpg)<br>
 
 これで巻き取るのが早くなるぞ。
-![](https://c1.staticflickr.com/1/567/20871270469_5bf2f1be01.jpg)
+![](https://kobapan.com/f/20871270469_5bf2f1be01.jpg)

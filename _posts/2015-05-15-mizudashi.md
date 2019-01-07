@@ -4,7 +4,7 @@ tag: 作る
 title: 水出し珈琲
 ---
 　
-![](https://c1.staticflickr.com/9/8727/17653778471_ca0df1a6d2.jpg)
+![](https://kobapan.com/f/17653778471_ca0df1a6d2.jpg)
 
 「<a href="http://www.amazon.co.jp/gp/product/4434041746/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4434041746&linkCode=as2&tag=kobapan-22">工学屋の見たコーヒーの世界</a>」に紹介されていた、水出し珈琲。試してみたらとても良かった。特別な技術がいらないのに、マイルドで飲みやすい珈琲が手に入る。
 

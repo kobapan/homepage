@@ -5,7 +5,7 @@ title: 今年の干し柿
 ---
 
 
-<img src="http://farm8.staticflickr.com/7382/10699199014_84d33d1fec.jpg">
+<img src="https://kobapan.com/f/10699199014_84d33d1fec.jpg">
 我が家の柿木は天邪鬼で、まわりが今年は裏年だといっていると昨年のように豊作になり、今年は生り年だといっていると生らない。とても不思議
 
 　

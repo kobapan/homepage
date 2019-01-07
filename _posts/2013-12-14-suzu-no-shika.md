@@ -3,7 +3,7 @@ layout: post
 title:  "珠洲の鹿"
 tag: "地域社会"
 ---
-![](http://farm4.staticflickr.com/3746/11430898023_569c0d7214.jpg)
+![](https://kobapan.com/f/11430898023_569c0d7214.jpg)
 
 
 今日は地域で活動している[]NPO[]奥能登日置らいの忘年会

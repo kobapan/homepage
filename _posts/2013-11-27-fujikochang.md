@@ -6,7 +6,7 @@ title: ふじこちゃん
 
 
 我が家に新しい軽トラックが来た！
-<img src="http://farm6.staticflickr.com/5532/11096090323_78bdfd0939.jpg">
+<img src="https://kobapan.com/f/11096090323_78bdfd0939.jpg">
 可愛いのお
 
 
