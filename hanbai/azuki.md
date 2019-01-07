@@ -7,7 +7,7 @@ tag: 自然農
 
 色よい大粒小豆です。
 
-<img src="https://c1.staticflickr.com/5/4576/37606770355_a2bd2eedcd.jpg" />
+<img src="https://kobapan.com/f/37606770355_a2bd2eedcd.jpg" />
 
 
 餡子にしておはぎを作ったり
@@ -21,7 +21,7 @@ tag: 自然農
 小豆ってほんと綺麗！
 
 <table class="order-box"><tbody><tr>
-  <td><img src="https://c1.staticflickr.com/5/4576/37606770355_a2bd2eedcd_s.jpg"/></td>
+  <td><img src="https://kobapan.com/f/37606770355_a2bd2eedcd_s.jpg"/></td>
   <td>大納言小豆 500g<br>
     <b>￥1,200</b> (税込)
   </td>
@@ -36,7 +36,7 @@ tag: 自然農
   </td></tr></tbody></table>
 
 <table class="order-box"><tbody><tr>
-  <td><img src="https://c1.staticflickr.com/5/4576/37606770355_a2bd2eedcd_s.jpg"/></td>
+  <td><img src="https://kobapan.com/f/37606770355_a2bd2eedcd_s.jpg"/></td>
   <td>大納言小豆 1kg<br>
     <b>￥2,000</b> (税込)
   </td>

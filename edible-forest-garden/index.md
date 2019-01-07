@@ -8,7 +8,7 @@ tag: 食べる森
 
 毎年その時期になると自然と生まれてくるものを食べられるという贅沢。山菜や海草や、魚。果物。どんぐり。獣。
 
-![](https://farm4.staticflickr.com/3738/11814697963_22e9e85b36.jpg)
+![](https://kobapan.com/f/11814697963_22e9e85b36.jpg)
 
 たくさん食べたいと思ったら手入れは、必要。タラの芽は日当たりのよい崖にビヨーンと伸びてくる。そのような環境を整えてやると増える。ウドは株立ちした中の１本を残しておくと次の年も生えてくる。自然薯は若い雑木林で太る。掘った自然薯の頭を戻しておくと来年も採れる。開いた土地に果物の木を植えておくと、あまり天候に左右されずに恵みをいただける。海につながる雑木林を適正に管理すると、海草や、海草を食べる魚が増える。岩の表面を掃除しておくと、海苔が採りやすい。などなど。
 
@@ -33,6 +33,6 @@ tag: 食べる森
 
 
 ##「{{ page.tag }}」人気のお便り
-<figure class="related-post"><a href="http://kobapan.com/blog/2014/10/09/turushigaki.html"><img src="https://c2.staticflickr.com/4/3928/15380926548_620f948dc5.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/10/09/turushigaki.html">吊るし柿（干し柿）の作り方</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2014/11/06/inoshishi.html"><img src="https://c2.staticflickr.com/4/3941/15725598412_14ef8f5dea.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/11/06/inoshishi.html">いのししうまい</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2014/10/20/tako.html"><img src="https://c2.staticflickr.com/4/3954/15411250199_9d56238c5a.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/10/20/tako.html">タコすかしの季節</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2014/01/28/saba.html"><img src="http://farm8.staticflickr.com/7337/12189039664_ac2bac0b8e.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/01/28/saba.html">鯖の回りもの</a></figcaption></figure>
+<figure class="related-post"><a href="http://kobapan.com/blog/2014/10/09/turushigaki.html"><img src="https://kobapan.com/f/15380926548_620f948dc5.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/10/09/turushigaki.html">吊るし柿（干し柿）の作り方</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2014/11/06/inoshishi.html"><img src="https://kobapan.com/f/15725598412_14ef8f5dea.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/11/06/inoshishi.html">いのししうまい</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2014/10/20/tako.html"><img src="https://kobapan.com/f/15411250199_9d56238c5a.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/10/20/tako.html">タコすかしの季節</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2014/01/28/saba.html"><img src="https://kobapan.com/f/12189039664_ac2bac0b8e.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/01/28/saba.html">鯖の回りもの</a></figcaption></figure>
 <p style="clear:both;"><a href="{{site.url}}/tags/{{ page.tag }}">「{{ page.tag }}」のお便り一覧&raquo;</a></p>
 

@@ -7,7 +7,7 @@ tag: 自然農
 
 ご飯を食べるのが楽しくなる。
 
-<img src="https://c2.staticflickr.com/8/7745/17575003949_b2268a6cca.jpg">
+<img src="https://kobapan.com/f/17575003949_b2268a6cca.jpg">
 
 黒うるち
 珍しい黒米のうるち品種。
@@ -32,7 +32,7 @@ tag: 自然農
 　
 
 <table class="order-box"><tbody><tr>
-  <td><img src="https://c2.staticflickr.com/8/7745/17575003949_b2268a6cca_s.jpg"/></td>
+  <td><img src="https://kobapan.com/f/17575003949_b2268a6cca_s.jpg"/></td>
   <td>４種類の古代米（黒うるち、赤もち、緑もち、黒もち） 100g<br>
     <b>￥220</b> (税込)
   </td>
@@ -47,7 +47,7 @@ tag: 自然農
   </td></tr></tbody></table>
 
 <table class="order-box"><tbody><tr>
-  <td><img src="https://c2.staticflickr.com/8/7745/17575003949_b2268a6cca_s.jpg"/></td>
+  <td><img src="https://kobapan.com/f/17575003949_b2268a6cca_s.jpg"/></td>
   <td>４種類の古代米（黒うるち、赤もち、緑もち、黒もち） 500g<br>
     <b>￥1,000</b> (税込)
   </td>
@@ -62,7 +62,7 @@ tag: 自然農
   </td></tr></tbody></table>
 
 <table class="order-box"><tbody><tr>
-  <td><img src="https://c2.staticflickr.com/8/7745/17575003949_b2268a6cca_s.jpg"/></td>
+  <td><img src="https://kobapan.com/f/17575003949_b2268a6cca_s.jpg"/></td>
   <td>４種類の古代米（黒うるち、赤もち、緑もち、黒もち） 1kg<br>
     <b>￥1,800</b> (税込)
   </td>
@@ -91,7 +91,7 @@ tag: 自然農
 
 ＊ついでに、鍋での玄米の炊き方＊
 
-![](http://farm8.staticflickr.com/7366/12358201524_a7616faa59_m.jpg)
+![](https://kobapan.com/f/12358201524_a7616faa59_m.jpg)
 
 1. 玄米を揉み洗い、水を切る。<br>水を入れ換えては、水がそこそこ濁らなくなるまで何度か洗う。ザルに上げてしっかり水を切る。
 2. 鍋に玄米の1.5倍の体積の水を入れ、玄米を一晩漬ける。<br>一合の玄米なら一合半の水。お米や鍋によって水の量が違うので、何度かためして好みの炊き加減を決める。我が家では2倍の水から試して、1.5倍に落ち着きました。水の温度や漬け時間によって仕上がりの柔らかさが多少変わりますが、浸水は大ざっぱに一晩としています。

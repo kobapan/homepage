@@ -9,7 +9,7 @@ title: ガットポンポコとは
 
 　
 
-![](https://c2.staticflickr.com/4/3876/15055713747_1ff6b64de8.jpg)
+![](https://kobapan.com/f/15055713747_1ff6b64de8.jpg)
 
 2009年に夫婦で歩いた、カミーノ・デ・サンティアゴという850kmの巡礼路（→[kokopelli巡礼日記](http://kokopelli-camino.blogspot.jp/)）での体験をきっかけとして、帰国後「答えを生きる」暮らしを始めました。社会を変革する運動よりも、こうなればという暮らしを実践します。
 

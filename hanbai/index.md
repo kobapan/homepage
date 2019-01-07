@@ -22,7 +22,7 @@ tag: 自然農
 
 ## 大納言小豆
 <table><td class="first">
-<a href="./azuki.html"><img src="https://c1.staticflickr.com/1/891/41225295252_84618b4d43_m.jpg"></a>
+<a href="./azuki.html"><img src="https://kobapan.com/f/41225295252_84618b4d43_m.jpg"></a>
 </td><td>
 小豆ってほんとに綺麗！<br>
 <a href="./azuki.html">詳細ページへ &gt;&gt;</a><br>
@@ -31,7 +31,7 @@ tag: 自然農
 
 ## ４種類の古代米
 <table><td class="first">
-<a href="./kodaimai.html"><img src="https://c2.staticflickr.com/8/7745/17575003949_b2268a6cca_m.jpg"></a>
+<a href="./kodaimai.html"><img src="https://kobapan.com/f/17575003949_b2268a6cca_m.jpg"></a>
 </td><td>
 いつものお米に加えれば<br>
 色鮮やかで<br>
@@ -43,7 +43,7 @@ tag: 自然農
 
 ## 鞍掛豆
 <table><td class="first">
-<a href="./kurakake.html"><img src="https://c1.staticflickr.com/9/8730/16611810190_fdc7ed297c_m.jpg"></a>
+<a href="./kurakake.html"><img src="https://kobapan.com/f/16611810190_fdc7ed297c_m.jpg"></a>
 </td><td>
 海苔のような独特な香り<br>
 口に入れた瞬間とうもろこしのような甘い味<br>
