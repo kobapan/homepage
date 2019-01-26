@@ -13,6 +13,8 @@ redcarpet:
 
 permalink: /blog/:categories/:year/:month/:day/:title.html
 
+# jekyll-toc-generator
+tocTopTag: h2
 
 paginate : 15
 paginate_path: "blog/page:num"
