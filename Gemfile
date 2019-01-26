@@ -11,11 +11,7 @@ gem 'jekyll', '2.5.3'
 
 # Gemfile
 
-group :jekyll_plugins do
-#  gem "jekyll-paginate"
-#  gem 'redcarpet'
-#  gem 'jekyll-sitemap'
-end
+gem 'nokogiri'
 
 
 
