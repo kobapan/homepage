@@ -10,8 +10,6 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 # Gemfile
 
 gem "jekyll-paginate"
-gem 'redcarpet'
-gem 'jekyll-sitemap'
 
 
 
