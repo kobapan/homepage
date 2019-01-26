@@ -10,9 +10,9 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 # Gemfile
 
 group :jekyll_plugins do
-  gem "jekyll-paginate"
+#  gem "jekyll-paginate"
 #  gem 'redcarpet'
-  gem 'jekyll-sitemap'
+#  gem 'jekyll-sitemap'
 end
 
 
