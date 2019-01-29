@@ -1,5 +1,3 @@
-# https://github.com/dafi/jekyll-toc-generator
-
 require 'nokogiri'
 
 module Jekyll
@@ -13,7 +11,7 @@ module Jekyll
     def toc_generate(html)
       # No Toc can be specified on every single page
       # For example the index page has no table of contents
-      return html if (@context.environments.first["page"]["noToc"] || false)
+      return html if (!!@context.environments.first["page"]["toc"] == false || @context.environments.first["page"]["toc"] == false || false)
 
       config = @context.registers[:site].config
 
@@ -45,16 +43,21 @@ module Jekyll
       item_number = 1
       level_html = ''
 
-      doc = Nokogiri::HTML(html)
+      doc = Nokogiri::HTML.fragment(html)
+
+      return html unless doc.css('article').length > 0
 
       # Find H1 tag and all its H2 siblings until next H1
       doc.css(toc_top_tag).each do |tag|
         # TODO This XPATH expression can greatly improved
         ct    = tag.xpath("count(following-sibling::#{toc_top_tag})")
+        # ct    = tag.xpath("count(./#{toc_top_tag})")
         sects = tag.xpath("following-sibling::#{toc_sec_tag}[count(following-sibling::#{toc_top_tag})=#{ct}]")
+        # sects = tag.xpath("following-sibling::#{toc_sec_tag}")
 
         level_html    = ''
         inner_section = 0
+
 
         sects.each do |sect|
           inner_section += 1
@@ -107,10 +110,32 @@ module Jekyll
         .gsub('%1', replaced_toggle_html)
         .gsub('%2', toc_html)
 
-        doc.css('body').children.before(toc_table)
+        insert_element = config["tocInsertElement"] || 'article' # default 'body'
+        insert_position = config["tocInsertPosition"] || 'before' # before , after
+        insert_children = config["tocInsertChildren"] || 'false' # before , after
+
+        if insert_element != ''
+          target = doc.css(insert_element)
+        else
+          target = doc
+        end
+
+        if insert_position == 'before'
+          if insert_children == true
+            target.children.before(toc_table)
+          else
+            target.before(toc_table)
+          end
+        elsif insert_position == 'after'
+          if insert_children == true
+            target.children.after(toc_table)
+          else
+            target.after(toc_table)
+          end
+        end
       end
 
-      doc.css('body').children.to_xhtml
+      doc.to_html
     end
 
     private
