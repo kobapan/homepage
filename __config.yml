@@ -18,7 +18,7 @@ tocTopTag: h2
 contentsLabel: "目次"
 tocInsertElement: ".post h2:first-of-type"
 tocInsertPosition: "before"
-tocInsertChildren: "false"
+tocInsertChildren: true
 
 paginate : 15
 paginate_path: "blog/page:num"

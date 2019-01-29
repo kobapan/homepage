@@ -52,10 +52,10 @@ module Jekyll
       # Find H1 tag and all its H2 siblings until next H1
       doc.css(toc_top_tag).each do |tag|
         # TODO This XPATH expression can greatly improved
-        # ct    = tag.xpath("count(following-sibling::#{toc_top_tag})")
-        ct    = tag.xpath("count(./#{toc_top_tag})")
-        # sects = tag.xpath("following-sibling::#{toc_sec_tag}[count(following-sibling::#{toc_top_tag})=#{ct}]")
-        sects = tag.xpath("following-sibling::#{toc_sec_tag}")
+        ct    = tag.xpath("count(following-sibling::#{toc_top_tag})")
+        # ct    = tag.xpath("count(./#{toc_top_tag})")
+        sects = tag.xpath("following-sibling::#{toc_sec_tag}[count(following-sibling::#{toc_top_tag})=#{ct}]")
+        # sects = tag.xpath("following-sibling::#{toc_sec_tag}")
 
         level_html    = ''
         inner_section = 0
@@ -112,15 +112,11 @@ module Jekyll
         .gsub('%1', replaced_toggle_html)
         .gsub('%2', toc_html)
 
-        insert_element = config["tocInsertElement"] || 'article' # default 'body'
+        insert_element = config["tocInsertElement"] || 'article'
         insert_position = config["tocInsertPosition"] || 'before' # before , after
-        insert_children = config["tocInsertChildren"] || 'false' # before , after
+        insert_children = config["tocInsertChildren"] || false
 
-        if insert_element != ''
-          target = doc.css(insert_element)
-        else
-          target = doc
-        end
+        target = doc.css(insert_element)
 
         if insert_position == 'before'
           if insert_children == true
