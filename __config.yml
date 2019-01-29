@@ -16,7 +16,7 @@ permalink: /blog/:categories/:year/:month/:day/:title.html
 # jekyll-toc-generator
 tocTopTag: 'h2'
 contentsLabel: "目次"
-tocInsertElement: 'h2:first-of-type'
+tocInsertElement: '.post h2:first-of-type'
 tocInsertPosition: 'before'
 tocInsertChildren: 'false'
 
