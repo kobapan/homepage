@@ -1,3 +1,5 @@
+# https://github.com/yuhiisk/jekyll-toc-generator/blob/master/_plugins/tocGenerator.rb
+
 require 'nokogiri'
 
 module Jekyll
@@ -11,7 +13,8 @@ module Jekyll
     def toc_generate(html)
       # No Toc can be specified on every single page
       # For example the index page has no table of contents
-      return html if (!!@context.environments.first["page"]["toc"] == false || @context.environments.first["page"]["toc"] == false || false)
+#      return html if (!!@context.environments.first["page"]["toc"] == false || @context.environments.first["page"]["toc"] == false || false)
+      return html if (@context.environments.first["page"]["toc"] == false || false)
 
       config = @context.registers[:site].config
 
