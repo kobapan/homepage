@@ -13,7 +13,7 @@ module Jekyll
     def toc_generate(html)
       # No Toc can be specified on every single page
       # For example the index page has no table of contents
-#      return html if (!!@context.environments.first["page"]["toc"] == false || @context.environments.first["page"]["toc"] == false || false)
+      return html if (!!@context.environments.first["page"]["toc"] == false || @context.environments.first["page"]["toc"] == false || false)
 
       config = @context.registers[:site].config
 
@@ -52,10 +52,10 @@ module Jekyll
       # Find H1 tag and all its H2 siblings until next H1
       doc.css(toc_top_tag).each do |tag|
         # TODO This XPATH expression can greatly improved
-        ct    = tag.xpath("count(following-sibling::#{toc_top_tag})")
-        # ct    = tag.xpath("count(./#{toc_top_tag})")
-        sects = tag.xpath("following-sibling::#{toc_sec_tag}[count(following-sibling::#{toc_top_tag})=#{ct}]")
-        # sects = tag.xpath("following-sibling::#{toc_sec_tag}")
+        # ct    = tag.xpath("count(following-sibling::#{toc_top_tag})")
+        ct    = tag.xpath("count(./#{toc_top_tag})")
+        # sects = tag.xpath("following-sibling::#{toc_sec_tag}[count(following-sibling::#{toc_top_tag})=#{ct}]")
+        sects = tag.xpath("following-sibling::#{toc_sec_tag}")
 
         level_html    = ''
         inner_section = 0
