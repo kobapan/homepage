@@ -56,7 +56,6 @@ toc: true
   <p><a href="https://amzn.to/2UpAMM4">Cob Builders Handbook</a></p>
 </div>
 <div class="quote">
- <p>clay slip の作り方</p>
  <p>適切な粘土の土壌を見つけ、水を加え、塗料の様な粘度になるように混ぜます。</p>
  <ul>
      <li>粘土を予め浸水すると、混合が容易になる。</li>
