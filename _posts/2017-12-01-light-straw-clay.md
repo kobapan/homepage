@@ -70,7 +70,7 @@ toc: true
   <p>地面から粘土を取って使うなら、粘土が25-50%含まれているものを使うこと。藁はどんな作物でも可。3-15cmの長さに切ったものが理想的。</p>
   <p><img src="https://kobapan.com/f/40644435751_fed8de3f99.jpg"></p>
   <p>いろんな混ぜ方があるけど、私たちのワークショップでは、手で混ぜるのが一般的。</p>
-  <p>Endeavour</p>
+  <p>[Endeavour Sustainable Building School](http://endeavourcentre.org/2016/04/light-clay-straw-insulation/)</p>
 </div>
 
 
