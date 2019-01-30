@@ -1,5 +1,10 @@
 #https://github.com/dafi/jekyll-toc-generator/blob/master/_plugins/tocGenerator.rb
 
+# MOD 2019/1/30 kobapan
+# if you need toc write on YAML as follows
+# toc: true
+
+
 require 'nokogiri'
 
 module Jekyll
@@ -11,8 +16,7 @@ module Jekyll
     HIDE_HTML = '<span class="toctoggle">[<a id="toctogglelink" class="internal" href="#">%1</a>]</span>'
 
     def toc_generate(html)
-      # No Toc can be specified on every single page
-      # For example the index page has no table of contents
+
       return html if (! @context.environments.first["page"]["toc"])
 
       config = @context.registers[:site].config
