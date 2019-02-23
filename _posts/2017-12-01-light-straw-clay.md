@@ -1,7 +1,7 @@
 ---
 layout: post
 tag: 作る
-title: light straw clay
+title: light straw clay 藁と粘土で作る断熱壁
 toc: true
 ---
 <p>粘土の厚壁を、木造の日本家屋を改装して作りたいなら、<a href="http://kobapan.com/blog/2017/09/30/cob-house.html">コブ</a>よりも"light straw clay"の方が向いているような気がする。コブと同様日本語の情報や文献が見当たらないので、まとめてみる。</p>
