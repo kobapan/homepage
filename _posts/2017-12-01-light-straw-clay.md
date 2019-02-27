@@ -77,11 +77,11 @@ toc: true
 <h2>窓など開口部の作り方</h2>
 <div class="img-box">
   <p><img src="https://kobapan.com/f/38794196662_55730fd104.jpg"></p>
-  <p>larsen trusses を使う例が多い。ダブル・スタッドというやつ。</p>
+  <p>このような larsen trusses を使う例が多い。ダブル・スタッドともいう。</p>
 </div>
 <div class="img-box">
   <p><img src="https://kobapan.com/f/27048879119_9672e0aab2.jpg"></p>
-  <p>ツーバイフォー工法の模式図。スタッドの説明に。</p>
+  <p>ツーバイフォー工法の模式図。こちらはシングル・スタッド。</p>
 </div>
 
 ##関連記事
