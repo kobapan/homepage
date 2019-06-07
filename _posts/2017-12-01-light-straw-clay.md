@@ -13,7 +13,7 @@ toc: true
 <p><a href="http://www.greenhomebuilding.com/cob.htm" target="_blank">Green Home Building: Cob</a></p>
 </div>
 
-<p>※型枠の中で叩くという工法は、版築と似ている。わら版築とでも言おうか。軽い素材を木組のなかに入れて、断熱性に優れた垂直な壁を作れる。</p>
+<p>※型枠の中で叩くという工法は、版築と似ている。藁版築とでも言おうか。軽い素材を木組のなかに入れて、断熱性に優れた垂直な壁を作れる。</p>
 
 <h2>light straw clay wall の作り方</h2>
 
