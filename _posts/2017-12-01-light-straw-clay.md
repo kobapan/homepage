@@ -43,7 +43,7 @@ toc: true
   <p><a href="https://www.portlandoregon.gov/bds/48661?a=316538">ATAC pdf</a></p>
 </div>
 
-<p>※壁の厚さは30cmまでってことの、理由はなんだろう？ 30cmでやってみたら、これ以上厚いと乾く前に腐りそうだなと感じた。</p>
+<p>※壁の厚さは30cmまでってことの、理由はなんだろう？ 実際に30cmでやってみたら、これ以上厚いと乾く前に腐りそうだなと感じた。</p>
 
 <div class="quote">
   <p><img src="https://kobapan.com/f/38795489332_286af4eab1.jpg"></p>
