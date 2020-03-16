@@ -150,6 +150,12 @@ div#contents {
 div#contents aside {
     font-size:84%;
 }
+div#contents article {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 1em;
+}
 
 /* 固定ヘッダでのアンカーリンク対策 */
 div#contents a[id]:not([href]) {
