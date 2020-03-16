@@ -147,6 +147,9 @@ div#contents {
     text-align: left;
     margin-top: 2.5em;
 }
+div#contents aside {
+    font-size:84%;
+}
 
 /* 固定ヘッダでのアンカーリンク対策 */
 div#contents a[id]:not([href]) {
