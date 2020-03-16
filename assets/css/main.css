@@ -141,6 +141,13 @@ header > p > a {
     text-shadow: 0 2px 3px #DDDDDD;
 }
 
+/* 基本レイアウト */
+div#contents {
+    margin: 0 auto;
+    text-align: left;
+    margin-top: 2.5em;
+}
+
 /* 固定ヘッダでのアンカーリンク対策 */
 div#contents a[id]:not([href]) {
     margin-top: -60px;

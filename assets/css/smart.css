@@ -23,7 +23,7 @@ div#contents img.amazon-img {
     width:10%;
 }
 div#contents aside {
-    float: none;
+    /* float: none; */
     margin-top: 10px;
     position: relative;
     width: 100%;
