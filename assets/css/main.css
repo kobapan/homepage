@@ -151,38 +151,6 @@ div#contents a[id]:not([href]) {
     vertical-align: top;
 }
 
-/* 基本レイアウト */
-div#contents {
-    margin: 0 auto;
-    padding: 0 20px 5px;
-    text-align: left;
-    width: 880px;
-}
-div#contents aside {
-    /* float: left; */
-    position: fixed;
-    width: 220px;
-    font-size:84%;
-}
-div#contents article {
-    float: right;
-    position: relative;
-    width: 620px;
-    margin: 2em 0 0 20px;
-    padding: 0;
-}
-div#contents div.post {
-    clear: both;
-    padding-top: 0;
-}
-div#contents footer {
-    clear: both;
-    font-size: 80%;
-    line-height: 1.4;
-    padding-top: 45px;
-    text-align: right;
-}
-
 div#contents img.amazon-img {
     width:10%;
 }
