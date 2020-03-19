@@ -11,6 +11,7 @@ div#contents article {
     float: right;
     position: relative;
     width: 620px;
+    margin-left: 1em;
     padding: 0;
 }
 div#contents div.post {
