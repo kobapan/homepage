@@ -3,7 +3,6 @@ layout: post
 tag: 自然農
 title: 早春は切り干し大根の季節
 ---
-
 岩海苔を干す風景みたいには有名じゃないけど、早春の能登でよく見られる、大根の切り干し。
 ![](https://kobapan.com/p/_data/i/galleries/sizen-nou/IMG_20200309_091944-sm.jpg)
 
