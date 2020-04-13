@@ -1,11 +1,11 @@
-#https://github.com/dafi/jekyll-toc-generator/blob/master/_plugins/tocGenerator.rb
+# fork from https://github.com/dafi/jekyll-toc-generator/blob/master/_plugins/tocGenerator.rb
 
 # MOD 2019/1/30 kobapan
 # if you need toc, write on YAML as follows
-# toc: true
+# toc: 1
 # MOD 2020/4/13 kobapan
 # if you need second siblings, write on YAML as follows
-# toc2: true
+# toc: 2
 
 require 'nokogiri'
 
@@ -58,7 +58,7 @@ module Jekyll
         level_html    = ''
         inner_section = 0
 
-        if(@context.environments.first["page"]["toc2"]) # MOD
+        if(@context.environments.first["page"]["toc"] == 2) # MOD
         
           # TODO This XPATH expression can greatly improved
           ct    = tag.xpath("count(following-sibling::#{toc_top_tag})")
