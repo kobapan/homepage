@@ -10,15 +10,13 @@ toc: 1
 
 20世紀後半、競争と効率化を求めて、自分で「作る」よりも、お金を稼ぐ仕事で得た現金で「買う」ようになった。私は、作るのが好きだ。手足で触って作って理解して、ワクワクする。
 
-
-
 ## 適正エネルギー
 遠い外国から化石燃料を使って運んだ化石燃料でもって電気や灯油を作り出し、さらにエネルギーを消費して消費地に運ぶという、誠に無駄の多いエネルギー事情にうんざりする。
 <img src="https://kobapan.com/f/5130524590_25de2ec6c1.jpg" alt="5130524590_25de2ec6c1.jpg" />
 
 エネルギーを得るために、自分で出来そうなことはなにかと考えては実験している。自然には利用されていないエネルギーが沢山ある。それらを無駄無く適正に取り出して利用するのはとても面白いと思う。
 
-例えば「薪」はすごい。調理、暖房、お風呂となんでもこなす、火の魔術。(;ﾟдﾟ)。「天ぷら廃油」。我が家では使いきっちゃうからこれ発生しないけど、お風呂を沸かしたり、車を走らせたりできるらしいぞ。忘れてはいけない「太陽光」という力。温水器や太陽光発電って案外簡単に作れる。日本の近代農業は足踏み脱穀機や唐箕、唐臼、立鎌といったとても便利な「手足作業器具」を大発明してきた。素晴らしい完成度を持つこれらの道具を縦横無尽に使いこなしていきたい。水もおもしろい。「[揚水風車](http://www.enecafe.com/interdomain/idyosui/indexyosui.htm)」や「[雨水再利用システム](http://d.hatena.ne.jp/kawasimanobuo/20130206/p1)」、「[Sling pump](http://www.energotech.gr/index.php?option=com_content&task=view&id=51&Itemid=77&lang=en)」、「[生物浄化](http://blogs.yahoo.co.jp/cwscnkmt/folder/1163785.html)」などなど。
+例えば「薪」はすごい。調理、暖房、お風呂となんでもこなす火の魔術。(;ﾟдﾟ)。「天ぷら廃油」。我が家では使いきっちゃうからこれ発生しないけど、お風呂を沸かしたり、車を走らせたりできるらしいぞ。忘れてはいけない「太陽光」。温水器や太陽光発電って案外簡単に作れる。日本の近代農業は足踏み脱穀機や唐箕、唐臼、立鎌といったとても便利な「手足作業機具」を大発明してきた。素晴らしい完成度を持つこれらの道具を縦横無尽に使いこなしていきたい。水もおもしろい。「[揚水風車](http://www.enecafe.com/interdomain/idyosui/indexyosui.htm)」や「[雨水再利用システム](http://d.hatena.ne.jp/kawasimanobuo/20130206/p1)」、「[Sling pump](http://www.energotech.gr/index.php?option=com_content&task=view&id=51&Itemid=77&lang=en)」、「[生物浄化](http://blogs.yahoo.co.jp/cwscnkmt/folder/1163785.html)」などなど。
 
 
 
@@ -36,11 +34,11 @@ toc: 1
 調理と暖房はセットにすると薪の量を減らせる。ペチカや囲炉裏がいい例。
 また、「[愛農かまど](http://maasan.blog19.fc2.com/blog-entry-1947.html)」のように、1ヶ所の薪燃焼で何か所かのお釜を温めるような効率のよいシステムを作ろう。
 ### 雑木の二次林
-温暖湿潤気候に属している日本では、広葉樹林の雑木林の木は、切っても切り株から勝手に再生する。植えなくてもいい、とても恵まれた気候だ。広葉樹林の二次林が再生可能な規模で木を切りつづければ、永遠に燃料が手に入る。
+温暖湿潤気候に属している日本では、広葉樹林の雑木林の木は、切っても切り株から勝手に再生する。植えなくてもいい、とても恵まれた気候だ。広葉樹林の二次林が再生可能な規模で木を切りつづければ、ほぼ永遠に燃料が手に入る。
 
 
 ## 飲み水をどこから得るか
-私の地域では、地下水や湧水を共同の水道施設で集水しポンプで配水する、簡易水道が通っている。しかし私の実家というのが、近所でも稀な井戸水で生活をする家だったせいか、いつまでたっても水道水の味に慣れない。だから、もっと純粋な水を手に入れたいと試行錯誤している。
+私の地域では、地下水や湧水を共同の水道施設で集水しポンプで配水する簡易水道が通っている。しかし私の実家というのが、近所でも稀な井戸水で生活をする家だったせいか、いつまでたっても水道水の味に慣れない。だから、もっと純粋な水を手に入れたいと試行錯誤している。
 
 ### 井戸水
 昔からの井戸水を水質検査に出すと、飲用に適さないと判定されるものが多いみたい。しかし田舎暮らしの先輩の家では、問題ありとされた山水を10年以上飲んでいるけど、まったく問題がないと聞いた。私の家の井戸もそのうち復活させたい。
@@ -86,6 +84,8 @@ toc: 1
 
 ## 小水力エネルギー
 小水力というとこれまた発電がもてはやされる昨今だけど、伝統的には挽き臼だよね。里芋の皮剥きとか、服の洗濯なんかもできる。あーしかし、我が家周辺には、そういう向きの川がない。
+
+などなど。
 
 ##「{{ page.tag }}」人気のお便り
 <figure class="related-post"><a href="http://kobapan.com/blog/2014/04/28/aku.html"><img src="https://kobapan.com/f/14064907143_d0d5254946.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/04/28/aku.html">灰で作る洗剤</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2017/03/23/hichirin.html"><img src="https://kobapan.com/f/33332534200_16837d65d4.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2017/03/23/hichirin.html">七輪で薪を焚く</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2015/10/22/rocket.html"><img src="https://kobapan.com/f/21723145373_a6946fb042.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2015/10/22/rocket.html">ロケットストーブには珪藻土レンガ</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2014/02/07/kamadomeshi.html"><img src="https://kobapan.com/f/12358201524_a7616faa59.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/02/07/kamadomeshi.html">竈(かまど)飯の炊き方</a></figcaption></figure>
