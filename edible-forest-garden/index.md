@@ -14,6 +14,10 @@ tag: 食べる森
 
 人が手を入れると、答えてくれる自然が、ある。
 
+##「{{ page.tag }}」人気のお便り
+<figure class="related-post"><a href="http://kobapan.com/blog/2014/10/09/turushigaki.html"><img src="https://kobapan.com/f/15380926548_620f948dc5.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/10/09/turushigaki.html">吊るし柿（干し柿）の作り方</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2014/11/06/inoshishi.html"><img src="https://kobapan.com/f/15725598412_14ef8f5dea.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/11/06/inoshishi.html">いのししうまい</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2014/10/20/tako.html"><img src="https://kobapan.com/f/15411250199_9d56238c5a.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/10/20/tako.html">タコすかしの季節</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2014/01/28/saba.html"><img src="https://kobapan.com/f/12189039664_ac2bac0b8e.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/01/28/saba.html">鯖の回りもの</a></figcaption></figure>
+<p style="clear:both;"><a href="{{site.url}}/tags/{{ page.tag }}">「{{ page.tag }}」のお便り一覧&raquo;</a></p>
+
 ## 春の端境期にある自然の恵み
 
 自然な状態で野菜を育てていると、年に数ヶ月間、野菜が採れない端境期という時期がある。野菜を遠くから運んでくるなら食べられるし、ビニールハウスや工場なら年中採れるけど、私は嫌だ。しかし、例えば4〜5月は野菜の端境期だけど、この時期食べものがないかというと実は沢山ある。海藻だったり、山菜だったり。
@@ -31,8 +35,4 @@ tag: 食べる森
 
 生きるとはなんと豊かなことだろうか。
 
-
-##「{{ page.tag }}」人気のお便り
-<figure class="related-post"><a href="http://kobapan.com/blog/2014/10/09/turushigaki.html"><img src="https://kobapan.com/f/15380926548_620f948dc5.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/10/09/turushigaki.html">吊るし柿（干し柿）の作り方</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2014/11/06/inoshishi.html"><img src="https://kobapan.com/f/15725598412_14ef8f5dea.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/11/06/inoshishi.html">いのししうまい</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2014/10/20/tako.html"><img src="https://kobapan.com/f/15411250199_9d56238c5a.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/10/20/tako.html">タコすかしの季節</a></figcaption></figure><figure class="related-post"><a href="http://kobapan.com/blog/2014/01/28/saba.html"><img src="https://kobapan.com/f/12189039664_ac2bac0b8e.jpg"/></a><figcaption><a href="http://kobapan.com/blog/2014/01/28/saba.html">鯖の回りもの</a></figcaption></figure>
-<p style="clear:both;"><a href="{{site.url}}/tags/{{ page.tag }}">「{{ page.tag }}」のお便り一覧&raquo;</a></p>
 
