@@ -12,7 +12,7 @@ tag: 自然農
 ##古代米
 [古代米レシピ]({{ site.url }}/hanbai/kodaimai.html#recipe)
 
-[鍋で玄米を焚く]({{ site.url }}/hanbai/kodaimai.html#genmai)
+[鍋での玄米の炊き方]({{ site.url }}/hanbai/kodaimai.html#genmai)
 
 [古代米とお豆のサラダ](https://kobapan.com/blog/2020/03/30/salad.html)
 
