@@ -12,6 +12,8 @@ tag: 自然農
 ##古代米
 [古代米レシピ]({{ site.url }}/hanbai/kodaimai.html#recipe)
 
+[古代米とお豆のサラダ](https://kobapan.com/blog/2020/03/30/salad.html)
+
 ##小麦粉
 [BPや重曹を使わないパンケーキ](http://kobapan.com/blog/2013/04/11/morning.html)
 
